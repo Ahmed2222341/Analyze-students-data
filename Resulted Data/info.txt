@@ -1,0 +1,136 @@
+
+========= Data Science Students' data ========= 
+
+Number of students in this department: 367
+Highest GPA in Data Science department: 3.64, Seat number: 231051030, Name: Ahmed Adel Muhammad Al -Sharif Ibrahim Abdul Rahman, Mark: 553
+Average GPA in Data Science department: 2.23
+
+Number of students with 'Acceptable' rating: 114
+Number of students with 'Weak' rating: 114
+Number of students with 'Very Good' rating: 36
+Number of students with 'Very Weak' rating: 10
+Number of students with 'Good' rating: 89
+Number of students with 'Excellent' rating: 4
+
+========= Robotics Students' data ========= 
+
+Number of students in this department: 232
+Highest GPA in Robotics department: 3.58, Seat number: 231052231, Name: Youssef Mahmoud Younis Abu Hadif, Mark: 536
+Average GPA in Robotics department: 2.28
+
+Number of students with 'Acceptable' rating: 71
+Number of students with 'Weak' rating: 57
+Number of students with 'Very Good' rating: 23
+Number of students with 'Excellent' rating: 1
+Number of students with 'Very Weak' rating: 6
+Number of students with 'Good' rating: 74
+
+========= Multi Media Students' data ========= 
+
+Number of students in this department: 107
+Highest GPA in Multi Media department: 3.67, Seat number: 231053104, Name: Youssef Sherif Ahmed Sharif Al -Tuni, Mark: 555
+Average GPA in Multi Media department: 2.15
+
+Number of students with 'Acceptable' rating: 38
+Number of students with 'Weak' rating: 18
+Number of students with 'Very Good' rating: 13
+Number of students with 'Excellent' rating: 1
+Number of students with 'Very Weak' rating: 14
+Number of students with 'Good' rating: 23
+
+========= Faculty of CS Students' data ========= 
+
+Number of students in this department: 706
+Highest GPA in Faculty of CS department: 3.67, Seat number: 231053104, Name: Youssef Sherif Ahmed Sharif Al -Tuni, Mark: 555
+Average GPA in Faculty of CS department: 2.24
+
+Number of students with 'Acceptable' rating: 223
+Number of students with 'Weak' rating: 189
+Number of students with 'Very Good' rating: 72
+Number of students with 'Very Weak' rating: 30
+Number of students with 'Good' rating: 186
+Number of students with 'Excellent' rating: 6
+
+
+Subject Analysis:
+
+English:
+	Number of students with mark 50-55: 12
+	Number of students with mark 45-50: 6
+	Number of students with mark 70-75: 125
+	Number of students with mark 85-95: 120
+	Number of students with mark higher than 95: 7
+	Number of students with mark Failed: 17
+	Average mark in English: 72
+
+Social Issues:
+	Number of students with mark 50-55: 1
+	Number of students with mark 45-50: 0
+	Number of students with mark 70-75: 186
+	Number of students with mark 85-95: 69
+	Number of students with mark higher than 95: 4
+	Number of students with mark Failed: 5
+	Average mark in Social Issues: 72
+
+IS:
+	Number of students with mark 50-55: 16
+	Number of students with mark 45-50: 7
+	Number of students with mark 70-75: 144
+	Number of students with mark 85-95: 46
+	Number of students with mark higher than 95: 2
+	Number of students with mark Failed: 18
+	Average mark in IS: 68
+
+Discrete Math:
+	Number of students with mark 50-55: 24
+	Number of students with mark 45-50: 23
+	Number of students with mark 70-75: 125
+	Number of students with mark 85-95: 25
+	Number of students with mark higher than 95: 0
+	Number of students with mark Failed: 53
+	Average mark in Discrete Math: 63
+
+CS:
+	Number of students with mark 50-55: 44
+	Number of students with mark 45-50: 27
+	Number of students with mark 70-75: 81
+	Number of students with mark 85-95: 46
+	Number of students with mark higher than 95: 6
+	Number of students with mark Failed: 85
+	Average mark in CS: 61
+
+Mathematics:
+	Number of students with mark 50-55: 8
+	Number of students with mark 45-50: 2
+	Number of students with mark 70-75: 123
+	Number of students with mark 85-95: 149
+	Number of students with mark higher than 95: 27
+	Number of students with mark Failed: 5
+	Average mark in Mathematics: 74
+
+Student Analysis:
+Number of students failed in 0 subjects: 563
+Number of students failed in 1 subjects: 78
+Number of students failed in 2 subjects: 43
+Number of students failed in 3 subjects: 13
+Number of students failed in 4 subjects: 4
+Number of students failed in 5 subjects: 1
+Number of students failed in 6 subjects: 4
+
+Subjects arranged by the number of failed students:
+CS: 85 failed students
+Discrete Math: 53 failed students
+IS: 18 failed students
+English: 17 failed students
+Social Issues: 5 failed students
+Mathematics: 5 failed students
+
+Money earned from each subject:
+English: 47,600
+Social Issues: 14,000
+IS: 75,600
+Discrete Math: 222,600
+CS: 357,000
+Mathematics: 21,000
+
+Total money earned from all subjects: 737,800

@@ -1,0 +1,5507 @@
+[
+  {
+    "Seat Number": 231051001,
+    "Name": "Abanoub Emad Ayyad Rizk",
+    "Marks": {
+      "English": 81,
+      "Social Issues": 75,
+      "IS": 71,
+      "Discrete Math": 71,
+      "CS": 61,
+      "Mathematics": 66
+    },
+    "Full Mark": 425,
+    "GPA": 2.38,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051002,
+    "Name": "Ibrahim Ahmed Saeed Ibrahim Mohamed",
+    "Marks": {
+      "English": 76,
+      "Social Issues": 59,
+      "IS": 68,
+      "Discrete Math": 65,
+      "CS": 58,
+      "Mathematics": 75
+    },
+    "Full Mark": 401,
+    "GPA": 2.16,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051003,
+    "Name": "Ibrahim Ahmed Mohammed Al -Jamil Ibrahim",
+    "Marks": {
+      "English": 79,
+      "Social Issues": 67,
+      "IS": 69,
+      "Discrete Math": 50,
+      "CS": 52,
+      "Mathematics": 74
+    },
+    "Full Mark": 391,
+    "GPA": 1.93,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051004,
+    "Name": "Ibrahim Ahmed Mohamed Abdel Moamen Al -Naqeeb",
+    "Marks": {
+      "English": 84,
+      "Social Issues": 72,
+      "IS": 79,
+      "Discrete Math": 66,
+      "CS": 55,
+      "Mathematics": 76
+    },
+    "Full Mark": 432,
+    "GPA": 2.46,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051005,
+    "Name": "Ibrahim Ahmed Mahmoud Mohamed Ahmed Hilal",
+    "Marks": {
+      "English": 60,
+      "Social Issues": 58,
+      "IS": 50,
+      "Discrete Math": 52,
+      "CS": 43,
+      "Mathematics": 64
+    },
+    "Full Mark": 327,
+    "GPA": 1.22,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051006,
+    "Name": "Ibrahim Hussein Sayed Muhammad Hussein",
+    "Marks": {
+      "English": 87,
+      "Social Issues": 75,
+      "IS": 72,
+      "Discrete Math": 56,
+      "CS": 60,
+      "Mathematics": 70
+    },
+    "Full Mark": 420,
+    "GPA": 2.31,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051007,
+    "Name": "Ibrahim Hussein Ali Muhammad Ali",
+    "Marks": {
+      "English": 69,
+      "Social Issues": 66,
+      "IS": 64,
+      "Discrete Math": 71,
+      "CS": 57,
+      "Mathematics": 65
+    },
+    "Full Mark": 392,
+    "GPA": 2.13,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051008,
+    "Name": "Ibrahim Hamdi Ibrahim Mohamed Grandfather",
+    "Marks": {
+      "English": 78,
+      "Social Issues": 77,
+      "IS": 80,
+      "Discrete Math": 74,
+      "CS": 71,
+      "Mathematics": 87
+    },
+    "Full Mark": 467,
+    "GPA": 2.8,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051009,
+    "Name": "Ibrahim Amr Ibrahim Ibrahim",
+    "Marks": {
+      "English": 77,
+      "Social Issues": 77,
+      "IS": 63,
+      "Discrete Math": 78,
+      "CS": 73,
+      "Mathematics": 75
+    },
+    "Full Mark": 443,
+    "GPA": 2.57,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051010,
+    "Name": "Ibrahim Mumtaz Ibrahim Ismail",
+    "Marks": {
+      "English": 75,
+      "Social Issues": 64,
+      "IS": 62,
+      "Discrete Math": 50,
+      "CS": 50,
+      "Mathematics": 71
+    },
+    "Full Mark": 372,
+    "GPA": 1.8,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051011,
+    "Name": "Abu Bakr Kamel Abu Bakr Hamza",
+    "Marks": {
+      "English": 80,
+      "Social Issues": 93,
+      "IS": 88,
+      "Discrete Math": 86,
+      "CS": 96,
+      "Mathematics": 97
+    },
+    "Full Mark": 540,
+    "GPA": 3.57,
+    "Rating": "Excellent"
+  },
+  {
+    "Seat Number": 231051012,
+    "Name": "Ahmed Ibrahim Fahmy Shaheen",
+    "Marks": {
+      "English": 78,
+      "Social Issues": 86,
+      "IS": 76,
+      "Discrete Math": 69,
+      "CS": 64,
+      "Mathematics": 80
+    },
+    "Full Mark": 453,
+    "GPA": 2.7,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051013,
+    "Name": "Ahmed Abu Bakr Hanafi Abdel -Khaleq",
+    "Marks": {
+      "English": 67,
+      "Social Issues": 84,
+      "IS": 76,
+      "Discrete Math": 70,
+      "CS": 80,
+      "Mathematics": 96
+    },
+    "Full Mark": 473,
+    "GPA": 2.96,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051014,
+    "Name": "Ahmed Ashraf Mohamed Mohamed Mustafa",
+    "Marks": {
+      "English": 95,
+      "Social Issues": 78,
+      "IS": 76,
+      "Discrete Math": 78,
+      "CS": 73,
+      "Mathematics": 85
+    },
+    "Full Mark": 485,
+    "GPA": 2.95,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051015,
+    "Name": "Ahmed Ayman Ahmed Afifi Ahmed",
+    "Marks": {
+      "English": 58,
+      "Social Issues": 64,
+      "IS": 64,
+      "Discrete Math": 57,
+      "CS": 59,
+      "Mathematics": 83
+    },
+    "Full Mark": 385,
+    "GPA": 2.0,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051016,
+    "Name": "Ahmed Ayman Jawdah Ibrahim Mohamed",
+    "Marks": {
+      "English": 62,
+      "Social Issues": 81,
+      "IS": 68,
+      "Discrete Math": 70,
+      "CS": 62,
+      "Mathematics": 81
+    },
+    "Full Mark": 424,
+    "GPA": 2.46,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051017,
+    "Name": "Ahmed Gamal Ahmed Mahmoud",
+    "Marks": {
+      "English": 76,
+      "Social Issues": 73,
+      "IS": 64,
+      "Discrete Math": 72,
+      "CS": 63,
+      "Mathematics": 62
+    },
+    "Full Mark": 410,
+    "GPA": 2.32,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051018,
+    "Name": "Ahmed Hazem Lotfy Abdul Latif",
+    "Marks": {
+      "English": 57,
+      "Social Issues": 76,
+      "IS": 70,
+      "Discrete Math": 55,
+      "CS": 58,
+      "Mathematics": 51
+    },
+    "Full Mark": 367,
+    "GPA": 1.73,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051019,
+    "Name": "Ahmed Hossam Hamid Muhammad Al -Hosary",
+    "Marks": {
+      "English": 76,
+      "Social Issues": 72,
+      "IS": 70,
+      "Discrete Math": 66,
+      "CS": 75,
+      "Mathematics": 91
+    },
+    "Full Mark": 450,
+    "GPA": 2.66,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051020,
+    "Name": "Ahmed Hossam Abdel -Moaty Mohamed Hassanein",
+    "Marks": {
+      "English": 68,
+      "Social Issues": 61,
+      "IS": 65,
+      "Discrete Math": 73,
+      "CS": 56,
+      "Mathematics": 78
+    },
+    "Full Mark": 401,
+    "GPA": 2.25,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051021,
+    "Name": "Ahmed Hussein Abdulaziz Abdel -Tawab",
+    "Marks": {
+      "English": 85,
+      "Social Issues": 82,
+      "IS": 75,
+      "Discrete Math": 67,
+      "CS": 83,
+      "Mathematics": 88
+    },
+    "Full Mark": 480,
+    "GPA": 2.87,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051022,
+    "Name": "Ahmed Khaled Khalifa Abdullah",
+    "Marks": {
+      "English": 59,
+      "Social Issues": 64,
+      "IS": 59,
+      "Discrete Math": 55,
+      "CS": 58,
+      "Mathematics": 66
+    },
+    "Full Mark": 361,
+    "GPA": 1.71,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051023,
+    "Name": "Ahmed Rajab Saber Abdul Jalil Muhammad",
+    "Marks": {
+      "English": 71,
+      "Social Issues": 70,
+      "IS": 68,
+      "Discrete Math": 62,
+      "CS": 56,
+      "Mathematics": 78
+    },
+    "Full Mark": 405,
+    "GPA": 2.23,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051024,
+    "Name": "Ahmed Sameh Mohamed Mahmoud",
+    "Marks": {
+      "English": 88,
+      "Social Issues": 68,
+      "IS": 70,
+      "Discrete Math": 88,
+      "CS": 80,
+      "Mathematics": 100
+    },
+    "Full Mark": 494,
+    "GPA": 3.12,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051025,
+    "Name": "Ahmed Shaban Abu Zaid Hamad",
+    "Marks": {
+      "English": 38,
+      "Social Issues": 69,
+      "IS": 47,
+      "Discrete Math": 56,
+      "CS": 50,
+      "Mathematics": 72
+    },
+    "Full Mark": 332,
+    "GPA": 1.25,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051026,
+    "Name": "Ahmed Shukry Hassan Ali Ahmed Al -Jundi",
+    "Marks": {
+      "English": 54,
+      "Social Issues": 61,
+      "IS": 44,
+      "Discrete Math": 38,
+      "CS": 32,
+      "Mathematics": 55
+    },
+    "Full Mark": 284,
+    "GPA": 0.65,
+    "Rating": "Very Weak"
+  },
+  {
+    "Seat Number": 231051027,
+    "Name": "Ahmed Sabry Hamza Heikal",
+    "Marks": {
+      "English": 93,
+      "Social Issues": 85,
+      "IS": 89,
+      "Discrete Math": 77,
+      "CS": 85,
+      "Mathematics": 96
+    },
+    "Full Mark": 525,
+    "GPA": 3.37,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051028,
+    "Name": "Ahmed Salah Hussein Muhammad",
+    "Marks": {
+      "English": 70,
+      "Social Issues": 77,
+      "IS": 82,
+      "Discrete Math": 81,
+      "CS": 79,
+      "Mathematics": 88
+    },
+    "Full Mark": 477,
+    "GPA": 2.93,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051029,
+    "Name": "Ahmed Tariq Mahfouz Ali Suleiman",
+    "Marks": {
+      "English": 71,
+      "Social Issues": 73,
+      "IS": 76,
+      "Discrete Math": 74,
+      "CS": 54,
+      "Mathematics": 92
+    },
+    "Full Mark": 440,
+    "GPA": 2.51,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051030,
+    "Name": "Ahmed Adel Muhammad Al -Sharif Ibrahim Abdul Rahman",
+    "Marks": {
+      "English": 96,
+      "Social Issues": 89,
+      "IS": 88,
+      "Discrete Math": 89,
+      "CS": 95,
+      "Mathematics": 96
+    },
+    "Full Mark": 553,
+    "GPA": 3.64,
+    "Rating": "Excellent"
+  },
+  {
+    "Seat Number": 231051031,
+    "Name": "Ahmed Abdel Qader Mohamed Mohamed",
+    "Marks": {
+      "English": 70,
+      "Social Issues": 69,
+      "IS": 55,
+      "Discrete Math": 38,
+      "CS": 43,
+      "Mathematics": 60
+    },
+    "Full Mark": 335,
+    "GPA": 1.25,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051032,
+    "Name": "Ahmed Abdel Hamid Mustafa Al -Muji",
+    "Marks": {
+      "English": 77,
+      "Social Issues": 59,
+      "IS": 38,
+      "Discrete Math": 50,
+      "CS": 40,
+      "Mathematics": 50
+    },
+    "Full Mark": 314,
+    "GPA": 0.91,
+    "Rating": "Very Weak"
+  },
+  {
+    "Seat Number": 231051033,
+    "Name": "Ahmed Abdullah Abdul -Ati Abdel Fattah",
+    "Marks": {
+      "English": 56,
+      "Social Issues": 71,
+      "IS": 57,
+      "Discrete Math": 51,
+      "CS": 43,
+      "Mathematics": 53
+    },
+    "Full Mark": 331,
+    "GPA": 1.14,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051034,
+    "Name": "Ahmed Abdel Nasser Syed Qarni",
+    "Marks": {
+      "English": 80,
+      "Social Issues": 70,
+      "IS": 59,
+      "Discrete Math": 51,
+      "CS": 60,
+      "Mathematics": 63
+    },
+    "Full Mark": 383,
+    "GPA": 1.89,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051035,
+    "Name": "Ahmed Essam Rashid Abdel Aal",
+    "Marks": {
+      "English": 65,
+      "Social Issues": 81,
+      "IS": 69,
+      "Discrete Math": 71,
+      "CS": 50,
+      "Mathematics": 74
+    },
+    "Full Mark": 410,
+    "GPA": 2.22,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051036,
+    "Name": "Ahmed Ali Saber Hassan",
+    "Marks": {
+      "English": 82,
+      "Social Issues": 88,
+      "IS": 72,
+      "Discrete Math": 76,
+      "CS": 71,
+      "Mathematics": 68
+    },
+    "Full Mark": 457,
+    "GPA": 2.71,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051037,
+    "Name": "Ahmed Imad Ahmed Khalil",
+    "Marks": {
+      "English": 68,
+      "Social Issues": 67,
+      "IS": 50,
+      "Discrete Math": 53,
+      "CS": 59,
+      "Mathematics": 50
+    },
+    "Full Mark": 347,
+    "GPA": 1.41,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051038,
+    "Name": "Ahmed Maher Fahmy on Ramadan",
+    "Marks": {
+      "English": 69,
+      "Social Issues": 78,
+      "IS": 70,
+      "Discrete Math": 64,
+      "CS": 68,
+      "Mathematics": 73
+    },
+    "Full Mark": 422,
+    "GPA": 2.45,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051039,
+    "Name": "Ahmed Mohamed Ibrahim Abdel -Moaty",
+    "Marks": {
+      "English": 71,
+      "Social Issues": 67,
+      "IS": 42,
+      "Discrete Math": 54,
+      "CS": 54,
+      "Mathematics": 62
+    },
+    "Full Mark": 350,
+    "GPA": 1.32,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051040,
+    "Name": "Ahmed Mohamed Refaat Ahmed Al -Darsawi",
+    "Marks": {
+      "English": 82,
+      "Social Issues": 73,
+      "IS": 75,
+      "Discrete Math": 82,
+      "CS": 79,
+      "Mathematics": 78
+    },
+    "Full Mark": 469,
+    "GPA": 2.8,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051041,
+    "Name": "Ahmed Mohammed Saleh Muhammad Al -Tamawi",
+    "Marks": {
+      "English": 70,
+      "Social Issues": 58,
+      "IS": 37,
+      "Discrete Math": 50,
+      "CS": 34,
+      "Mathematics": 83
+    },
+    "Full Mark": 332,
+    "GPA": 1.23,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051042,
+    "Name": "Ahmed Mohamed Farouk Sadiq Mustafa",
+    "Marks": {
+      "English": 63,
+      "Social Issues": 78,
+      "IS": 55,
+      "Discrete Math": 64,
+      "CS": 61,
+      "Mathematics": 83
+    },
+    "Full Mark": 404,
+    "GPA": 2.23,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051043,
+    "Name": "Ahmed Muhammad Muhammad Ali Abu Talib",
+    "Marks": {
+      "English": 73,
+      "Social Issues": 91,
+      "IS": 74,
+      "Discrete Math": 59,
+      "CS": 64,
+      "Mathematics": 69
+    },
+    "Full Mark": 430,
+    "GPA": 2.38,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051044,
+    "Name": "Ahmed Mohamed Wahba Ibrahim Mohamed",
+    "Marks": {
+      "English": 84,
+      "Social Issues": 80,
+      "IS": 71,
+      "Discrete Math": 71,
+      "CS": 78,
+      "Mathematics": 82
+    },
+    "Full Mark": 466,
+    "GPA": 2.76,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051045,
+    "Name": "Ahmed Medhat Ahmed Abdul Rahman Al -Mahdi",
+    "Marks": {
+      "English": 77,
+      "Social Issues": 79,
+      "IS": 83,
+      "Discrete Math": 63,
+      "CS": 73,
+      "Mathematics": 72
+    },
+    "Full Mark": 447,
+    "GPA": 2.61,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051046,
+    "Name": "Ahmed Mamdouh Bakry Mohamed",
+    "Marks": {
+      "English": 56,
+      "Social Issues": 56,
+      "IS": 58,
+      "Discrete Math": 51,
+      "CS": 39,
+      "Mathematics": 71
+    },
+    "Full Mark": 331,
+    "GPA": 1.29,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051047,
+    "Name": "Ahmed Nasr Ali Hassan",
+    "Marks": {
+      "English": 71,
+      "Social Issues": 86,
+      "IS": 71,
+      "Discrete Math": 66,
+      "CS": 65,
+      "Mathematics": 70
+    },
+    "Full Mark": 429,
+    "GPA": 2.42,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051048,
+    "Name": "Ahmed Hisham Salah Fawzi Mohamed",
+    "Marks": {
+      "English": 84,
+      "Social Issues": 63,
+      "IS": 73,
+      "Discrete Math": 56,
+      "CS": 60,
+      "Mathematics": 50
+    },
+    "Full Mark": 386,
+    "GPA": 1.98,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051049,
+    "Name": "Ahmed Yasser Abdul Majeed Kamel Abdel -Majid",
+    "Marks": {
+      "English": 47,
+      "Social Issues": 80,
+      "IS": 64,
+      "Discrete Math": 42,
+      "CS": 56,
+      "Mathematics": 61
+    },
+    "Full Mark": 350,
+    "GPA": 1.44,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051050,
+    "Name": "Ahmed Yassin Yassin Al -Ajawi",
+    "Marks": {
+      "English": 85,
+      "Social Issues": 68,
+      "IS": 56,
+      "Discrete Math": 68,
+      "CS": 52,
+      "Mathematics": 77
+    },
+    "Full Mark": 406,
+    "GPA": 2.14,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051051,
+    "Name": "Adam Sayed Mahmoud Abdullah Mujahid",
+    "Marks": {
+      "English": 89,
+      "Social Issues": 68,
+      "IS": 79,
+      "Discrete Math": 72,
+      "CS": 69,
+      "Mathematics": 82
+    },
+    "Full Mark": 459,
+    "GPA": 2.75,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051052,
+    "Name": "Adam Muhammad Sayed Muhammad Fahmy",
+    "Marks": {
+      "English": 83,
+      "Social Issues": 79,
+      "IS": 70,
+      "Discrete Math": 64,
+      "CS": 58,
+      "Mathematics": 55
+    },
+    "Full Mark": 409,
+    "GPA": 2.15,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051053,
+    "Name": "Adham Khaled Mustafa Mahmoud",
+    "Marks": {
+      "English": 85,
+      "Social Issues": 68,
+      "IS": 75,
+      "Discrete Math": 85,
+      "CS": 93,
+      "Mathematics": 82
+    },
+    "Full Mark": 488,
+    "GPA": 3.04,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051054,
+    "Name": "Adham Mamdouh Ahmed Abdel Majeed",
+    "Marks": {
+      "English": 70,
+      "Social Issues": 68,
+      "IS": 65,
+      "Discrete Math": 57,
+      "CS": 56,
+      "Mathematics": 59
+    },
+    "Full Mark": 375,
+    "GPA": 1.85,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051055,
+    "Name": "Islam Syed Juma Abdullah",
+    "Marks": {
+      "English": 50,
+      "Social Issues": 70,
+      "IS": 55,
+      "Discrete Math": 60,
+      "CS": 34,
+      "Mathematics": 58
+    },
+    "Full Mark": 327,
+    "GPA": 1.36,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051056,
+    "Name": "Islam Muhammad Ahmad Abbas Al -Shams",
+    "Marks": {
+      "English": 67,
+      "Social Issues": 63,
+      "IS": 78,
+      "Discrete Math": 63,
+      "CS": 51,
+      "Mathematics": 73
+    },
+    "Full Mark": 395,
+    "GPA": 2.1,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051057,
+    "Name": "The names of Muhammad Helmy Shaban Abu Al -Ala",
+    "Marks": {
+      "English": 63,
+      "Social Issues": 72,
+      "IS": 66,
+      "Discrete Math": 80,
+      "CS": 65,
+      "Mathematics": 78
+    },
+    "Full Mark": 424,
+    "GPA": 2.48,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051058,
+    "Name": "Ismail Ibrahim Ismail Abdel Fattah",
+    "Marks": {
+      "English": 84,
+      "Social Issues": 71,
+      "IS": 69,
+      "Discrete Math": 68,
+      "CS": 58,
+      "Mathematics": 67
+    },
+    "Full Mark": 417,
+    "GPA": 2.29,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051059,
+    "Name": "Afnan Magdy Awais Mahmoud",
+    "Marks": {
+      "English": 84,
+      "Social Issues": 63,
+      "IS": 63,
+      "Discrete Math": 75,
+      "CS": 70,
+      "Mathematics": 76
+    },
+    "Full Mark": 431,
+    "GPA": 2.48,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051061,
+    "Name": "Alaa Ali Abdel -Alim Hussein",
+    "Marks": {
+      "English": 88,
+      "Social Issues": 80,
+      "IS": 81,
+      "Discrete Math": 70,
+      "CS": 71,
+      "Mathematics": 81
+    },
+    "Full Mark": 471,
+    "GPA": 2.82,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051062,
+    "Name": "Al -Bir Ehab Ezzat Salama Khalil",
+    "Marks": {
+      "English": 74,
+      "Social Issues": 78,
+      "IS": 63,
+      "Discrete Math": 72,
+      "CS": 66,
+      "Mathematics": 68
+    },
+    "Full Mark": 421,
+    "GPA": 2.4,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051063,
+    "Name": "Amani Muhammad Amin Svina",
+    "Marks": {
+      "English": 69,
+      "Social Issues": 70,
+      "IS": 61,
+      "Discrete Math": 71,
+      "CS": 65,
+      "Mathematics": 65
+    },
+    "Full Mark": 401,
+    "GPA": 2.25,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051064,
+    "Name": "Amir Ashraf Salam Saif Muhammad",
+    "Marks": {
+      "English": 69,
+      "Social Issues": 67,
+      "IS": 53,
+      "Discrete Math": 51,
+      "CS": 46,
+      "Mathematics": 59
+    },
+    "Full Mark": 345,
+    "GPA": 1.23,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051065,
+    "Name": "Amir Adel Samir Salmon",
+    "Marks": {
+      "English": 70,
+      "Social Issues": 68,
+      "IS": 60,
+      "Discrete Math": 36,
+      "CS": 45,
+      "Mathematics": 63
+    },
+    "Full Mark": 342,
+    "GPA": 1.35,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051066,
+    "Name": "Princess Magdy Saad Abu Al -Azzim",
+    "Marks": {
+      "English": 75,
+      "Social Issues": 93,
+      "IS": 88,
+      "Discrete Math": 89,
+      "CS": 89,
+      "Mathematics": 85
+    },
+    "Full Mark": 519,
+    "GPA": 3.3,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051067,
+    "Name": "Antonie Hany Hamdi Ayoub",
+    "Marks": {
+      "English": 88,
+      "Social Issues": 75,
+      "IS": 77,
+      "Discrete Math": 66,
+      "CS": 58,
+      "Mathematics": 68
+    },
+    "Full Mark": 432,
+    "GPA": 2.41,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051068,
+    "Name": "Anas Mahmoud Al -Sayed Muhammad Al -Sakka",
+    "Marks": {
+      "English": 79,
+      "Social Issues": 70,
+      "IS": 73,
+      "Discrete Math": 71,
+      "CS": 71,
+      "Mathematics": 69
+    },
+    "Full Mark": 433,
+    "GPA": 2.48,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051069,
+    "Name": "Iyad Imad Ali Abdul Qazeel Qandil",
+    "Marks": {
+      "English": 89,
+      "Social Issues": 66,
+      "IS": 74,
+      "Discrete Math": 71,
+      "CS": 67,
+      "Mathematics": 71
+    },
+    "Full Mark": 438,
+    "GPA": 2.5,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051070,
+    "Name": "Ayman Najeh Muhammad Muhammad",
+    "Marks": {
+      "English": 72,
+      "Social Issues": 69,
+      "IS": 71,
+      "Discrete Math": 68,
+      "CS": 54,
+      "Mathematics": 80
+    },
+    "Full Mark": 414,
+    "GPA": 2.27,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051071,
+    "Name": "A, Alaa Hamid Muhammad",
+    "Marks": {
+      "English": 90,
+      "Social Issues": 84,
+      "IS": 89,
+      "Discrete Math": 75,
+      "CS": 90,
+      "Mathematics": 88
+    },
+    "Full Mark": 516,
+    "GPA": 3.22,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051072,
+    "Name": "Ah Mahmoud Abdullah Atallah",
+    "Marks": {
+      "English": 74,
+      "Social Issues": 82,
+      "IS": 81,
+      "Discrete Math": 72,
+      "CS": 62,
+      "Mathematics": 59
+    },
+    "Full Mark": 430,
+    "GPA": 2.4,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051073,
+    "Name": "What Medhat Yousry Abu Al -Rish",
+    "Marks": {
+      "English": 88,
+      "Social Issues": 85,
+      "IS": 83,
+      "Discrete Math": 76,
+      "CS": 84,
+      "Mathematics": 77
+    },
+    "Full Mark": 493,
+    "GPA": 3.03,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051074,
+    "Name": "Patrick Milad Mukhtar Luke",
+    "Marks": {
+      "English": 91,
+      "Social Issues": 69,
+      "IS": 76,
+      "Discrete Math": 66,
+      "CS": 71,
+      "Mathematics": 73
+    },
+    "Full Mark": 446,
+    "GPA": 2.6,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051075,
+    "Name": "Basil Magdy Salah Al -Din Abdel Fattah",
+    "Marks": {
+      "English": 71,
+      "Social Issues": 81,
+      "IS": 66,
+      "Discrete Math": 79,
+      "CS": 67,
+      "Mathematics": 68
+    },
+    "Full Mark": 432,
+    "GPA": 2.47,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051076,
+    "Name": "Basem Ahmed Hassan Zaki",
+    "Marks": {
+      "English": 64,
+      "Social Issues": 62,
+      "IS": 67,
+      "Discrete Math": 50,
+      "CS": 55,
+      "Mathematics": 68
+    },
+    "Full Mark": 366,
+    "GPA": 1.85,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051077,
+    "Name": "Basma Medhat Hashem Abdul -Moaty Aboria",
+    "Marks": {
+      "English": 73,
+      "Social Issues": 76,
+      "IS": 82,
+      "Discrete Math": 71,
+      "CS": 76,
+      "Mathematics": 72
+    },
+    "Full Mark": 450,
+    "GPA": 2.7,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051078,
+    "Name": "Basant Ashraf Al -Sayed Abdel Halim",
+    "Marks": {
+      "English": 76,
+      "Social Issues": 83,
+      "IS": 70,
+      "Discrete Math": 70,
+      "CS": 68,
+      "Mathematics": 55
+    },
+    "Full Mark": 422,
+    "GPA": 2.35,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051079,
+    "Name": "Basant Mohammed Saeed Ahmed Salim",
+    "Marks": {
+      "English": 55,
+      "Social Issues": 65,
+      "IS": 54,
+      "Discrete Math": 43,
+      "CS": 43,
+      "Mathematics": 62
+    },
+    "Full Mark": 322,
+    "GPA": 1.02,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051080,
+    "Name": "Paula Atef Kamel Azmi",
+    "Marks": {
+      "English": 76,
+      "Social Issues": 76,
+      "IS": 59,
+      "Discrete Math": 69,
+      "CS": 68,
+      "Mathematics": 74
+    },
+    "Full Mark": 422,
+    "GPA": 2.36,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051081,
+    "Name": "Baybars Mohamed Abdel Moneim Ahmed",
+    "Marks": {
+      "English": 87,
+      "Social Issues": 88,
+      "IS": 84,
+      "Discrete Math": 70,
+      "CS": 82,
+      "Mathematics": 74
+    },
+    "Full Mark": 485,
+    "GPA": 2.92,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051082,
+    "Name": "Tasnim Saber Embaby Hamdan",
+    "Marks": {
+      "English": 88,
+      "Social Issues": 75,
+      "IS": 69,
+      "Discrete Math": 78,
+      "CS": 71,
+      "Mathematics": 69
+    },
+    "Full Mark": 450,
+    "GPA": 2.62,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051083,
+    "Name": "Tasnim Tariq Muhammad Anwar Abdullatif Atta",
+    "Marks": {
+      "English": 81,
+      "Social Issues": 64,
+      "IS": 70,
+      "Discrete Math": 61,
+      "CS": 53,
+      "Mathematics": 59
+    },
+    "Full Mark": 388,
+    "GPA": 1.94,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051084,
+    "Name": "Taqi Muhammad Atef Ragab Mohamed Ahmed",
+    "Marks": {
+      "English": 81,
+      "Social Issues": 66,
+      "IS": 84,
+      "Discrete Math": 64,
+      "CS": 74,
+      "Mathematics": 91
+    },
+    "Full Mark": 460,
+    "GPA": 2.78,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051085,
+    "Name": "Taqi Mahmoud Mustafa Mohamed Ahmed",
+    "Marks": {
+      "English": 77,
+      "Social Issues": 86,
+      "IS": 61,
+      "Discrete Math": 69,
+      "CS": 57,
+      "Mathematics": 76
+    },
+    "Full Mark": 426,
+    "GPA": 2.38,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051086,
+    "Name": "Jana Abdul Karim Muhammad Al -Arabi Abdul Karim",
+    "Marks": {
+      "English": 76,
+      "Social Issues": 89,
+      "IS": 73,
+      "Discrete Math": 76,
+      "CS": 65,
+      "Mathematics": 68
+    },
+    "Full Mark": 447,
+    "GPA": 2.65,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051087,
+    "Name": "George Ibrahim Youssef Fawzy",
+    "Marks": {
+      "English": 70,
+      "Social Issues": 22,
+      "IS": 54,
+      "Discrete Math": 52,
+      "CS": 50,
+      "Mathematics": 61
+    },
+    "Full Mark": 309,
+    "GPA": 1.23,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051088,
+    "Name": "Joseph Wafik Edward Labib",
+    "Marks": {
+      "English": 79,
+      "Social Issues": 64,
+      "IS": 72,
+      "Discrete Math": 66,
+      "CS": 59,
+      "Mathematics": 82
+    },
+    "Full Mark": 422,
+    "GPA": 2.36,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051089,
+    "Name": "Hamid Hossam Hamed Sayed Khalifa",
+    "Marks": {
+      "English": 67,
+      "Social Issues": 78,
+      "IS": 71,
+      "Discrete Math": 68,
+      "CS": 65,
+      "Mathematics": 82
+    },
+    "Full Mark": 431,
+    "GPA": 2.5,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051090,
+    "Name": "Habiba Ahmed Abdul Sattar Amin",
+    "Marks": {
+      "English": 83,
+      "Social Issues": 72,
+      "IS": 75,
+      "Discrete Math": 59,
+      "CS": 70,
+      "Mathematics": 87
+    },
+    "Full Mark": 446,
+    "GPA": 2.51,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051091,
+    "Name": "Habiba Amr Abdul Rahman Bashir",
+    "Marks": {
+      "English": 85,
+      "Social Issues": 89,
+      "IS": 81,
+      "Discrete Math": 76,
+      "CS": 78,
+      "Mathematics": 75
+    },
+    "Full Mark": 484,
+    "GPA": 2.92,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051092,
+    "Name": "Habiba Mustafa Taha Al -Sayed Hijazi",
+    "Marks": {
+      "English": 90,
+      "Social Issues": 70,
+      "IS": 75,
+      "Discrete Math": 56,
+      "CS": 66,
+      "Mathematics": 67
+    },
+    "Full Mark": 424,
+    "GPA": 2.31,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051093,
+    "Name": "Hassan Mohamed Ahmed Hassan",
+    "Marks": {
+      "English": 73,
+      "Social Issues": 84,
+      "IS": 74,
+      "Discrete Math": 70,
+      "CS": 71,
+      "Mathematics": 75
+    },
+    "Full Mark": 447,
+    "GPA": 2.6,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051094,
+    "Name": "Hamza Ahmed Ibrahim Ibrahim",
+    "Marks": {
+      "English": 55,
+      "Social Issues": 58,
+      "IS": 63,
+      "Discrete Math": 56,
+      "CS": 66,
+      "Mathematics": 73
+    },
+    "Full Mark": 371,
+    "GPA": 1.93,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051095,
+    "Name": "Khaled Amr Abdul Latif Mohamed Ahmed",
+    "Marks": {
+      "English": 88,
+      "Social Issues": 66,
+      "IS": 79,
+      "Discrete Math": 83,
+      "CS": 83,
+      "Mathematics": 91
+    },
+    "Full Mark": 490,
+    "GPA": 2.98,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051096,
+    "Name": "Damian Emile Fahmy Zaki",
+    "Marks": {
+      "English": 90,
+      "Social Issues": 74,
+      "IS": 77,
+      "Discrete Math": 68,
+      "CS": 66,
+      "Mathematics": 83
+    },
+    "Full Mark": 458,
+    "GPA": 2.7,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051097,
+    "Name": "Dina Muhammad Muhammad Mahmoud Al -Qahwaji",
+    "Marks": {
+      "English": 56,
+      "Social Issues": 69,
+      "IS": 66,
+      "Discrete Math": 78,
+      "CS": 51,
+      "Mathematics": 68
+    },
+    "Full Mark": 388,
+    "GPA": 2.06,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051098,
+    "Name": "Have mercy on Mohamed Sayed Mahmoud",
+    "Marks": {
+      "English": 46,
+      "Social Issues": 80,
+      "IS": 73,
+      "Discrete Math": 77,
+      "CS": 64,
+      "Mathematics": 82
+    },
+    "Full Mark": 422,
+    "GPA": 2.36,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051099,
+    "Name": "Have mercy on Nasser Farouk Sayed",
+    "Marks": {
+      "English": 59,
+      "Social Issues": 69,
+      "IS": 61,
+      "Discrete Math": 65,
+      "CS": 50,
+      "Mathematics": 93
+    },
+    "Full Mark": 397,
+    "GPA": 2.15,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051100,
+    "Name": "Radwa Mamdouh Abdel Fattah Shaban",
+    "Marks": {
+      "English": 64,
+      "Social Issues": 74,
+      "IS": 68,
+      "Discrete Math": 51,
+      "CS": 50,
+      "Mathematics": 58
+    },
+    "Full Mark": 365,
+    "GPA": 1.7,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051101,
+    "Name": "Radwa Yousry Abdel -Motal Al -Amin",
+    "Marks": {
+      "English": 73,
+      "Social Issues": 86,
+      "IS": 83,
+      "Discrete Math": 68,
+      "CS": 87,
+      "Mathematics": 93
+    },
+    "Full Mark": 490,
+    "GPA": 3.03,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051102,
+    "Name": "Rana Ashraf Ahmed Mohamed Ibrahim",
+    "Marks": {
+      "English": 79,
+      "Social Issues": 70,
+      "IS": 85,
+      "Discrete Math": 74,
+      "CS": 60,
+      "Mathematics": 82
+    },
+    "Full Mark": 450,
+    "GPA": 2.67,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051103,
+    "Name": "Rana Rabie Ismail Abdel Wahab",
+    "Marks": {
+      "English": 76,
+      "Social Issues": 64,
+      "IS": 71,
+      "Discrete Math": 63,
+      "CS": 44,
+      "Mathematics": 82
+    },
+    "Full Mark": 400,
+    "GPA": 2.01,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051104,
+    "Name": "Raneem Samir Shawky Aziz Hanin",
+    "Marks": {
+      "English": 78,
+      "Social Issues": 84,
+      "IS": 63,
+      "Discrete Math": 71,
+      "CS": 74,
+      "Mathematics": 64
+    },
+    "Full Mark": 434,
+    "GPA": 2.47,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051105,
+    "Name": "Rawan Abdel -Gawad Suleiman Jad",
+    "Marks": {
+      "English": 68,
+      "Social Issues": 80,
+      "IS": 59,
+      "Discrete Math": 46,
+      "CS": 51,
+      "Mathematics": 66
+    },
+    "Full Mark": 370,
+    "GPA": 1.55,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051106,
+    "Name": "Rowan Aladdin Mustafa Mabrouk Ismail",
+    "Marks": {
+      "English": 70,
+      "Social Issues": 67,
+      "IS": 68,
+      "Discrete Math": 74,
+      "CS": 69,
+      "Mathematics": 51
+    },
+    "Full Mark": 399,
+    "GPA": 2.15,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051107,
+    "Name": "Rawan Muhammad Hussein Muhammad Al -Najjar",
+    "Marks": {
+      "English": 83,
+      "Social Issues": 75,
+      "IS": 69,
+      "Discrete Math": 63,
+      "CS": 56,
+      "Mathematics": 67
+    },
+    "Full Mark": 413,
+    "GPA": 2.21,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051108,
+    "Name": "Rawdah Ali Hassan Abdullah",
+    "Marks": {
+      "English": 58,
+      "Social Issues": 70,
+      "IS": 74,
+      "Discrete Math": 68,
+      "CS": 70,
+      "Mathematics": 74
+    },
+    "Full Mark": 414,
+    "GPA": 2.36,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051109,
+    "Name": "Ruwaid Ahmed Musa Ahmed Al -Sayed Moawad",
+    "Marks": {
+      "English": 88,
+      "Social Issues": 89,
+      "IS": 88,
+      "Discrete Math": 82,
+      "CS": 82,
+      "Mathematics": 94
+    },
+    "Full Mark": 523,
+    "GPA": 3.3,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051110,
+    "Name": "The visions of Ahmed Mohamed Abdel Ghafour",
+    "Marks": {
+      "English": 81,
+      "Social Issues": 75,
+      "IS": 68,
+      "Discrete Math": 70,
+      "CS": 73,
+      "Mathematics": 70
+    },
+    "Full Mark": 437,
+    "GPA": 2.53,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051111,
+    "Name": "Reda Mohamed Abdel Rahman visions",
+    "Marks": {
+      "English": 72,
+      "Social Issues": 73,
+      "IS": 56,
+      "Discrete Math": 60,
+      "CS": 50,
+      "Mathematics": 91
+    },
+    "Full Mark": 402,
+    "GPA": 2.13,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051112,
+    "Name": "Reem Ahmed Awais Suleiman Muhammad",
+    "Marks": {
+      "English": 70,
+      "Social Issues": 80,
+      "IS": 66,
+      "Discrete Math": 74,
+      "CS": 57,
+      "Mathematics": 68
+    },
+    "Full Mark": 415,
+    "GPA": 2.3,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051113,
+    "Name": "Reem Khaled Ahmed Hassan",
+    "Marks": {
+      "English": 59,
+      "Social Issues": 86,
+      "IS": 70,
+      "Discrete Math": 63,
+      "CS": 59,
+      "Mathematics": 68
+    },
+    "Full Mark": 405,
+    "GPA": 2.14,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051114,
+    "Name": "Renad Mohamed Mohamed Sayed Ahmed Al -Dhahabi",
+    "Marks": {
+      "English": 81,
+      "Social Issues": 80,
+      "IS": 77,
+      "Discrete Math": 76,
+      "CS": 83,
+      "Mathematics": 91
+    },
+    "Full Mark": 488,
+    "GPA": 3.0,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051115,
+    "Name": "Ziad Ashraf Rashid Mahmoud",
+    "Marks": {
+      "English": 78,
+      "Social Issues": 78,
+      "IS": 78,
+      "Discrete Math": 67,
+      "CS": 76,
+      "Mathematics": 75
+    },
+    "Full Mark": 452,
+    "GPA": 2.65,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051116,
+    "Name": "Ziad Khaled Mahran Asran Ahmed",
+    "Marks": {
+      "English": 54,
+      "Social Issues": 77,
+      "IS": 57,
+      "Discrete Math": 40,
+      "CS": 50,
+      "Mathematics": 71
+    },
+    "Full Mark": 349,
+    "GPA": 1.39,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051117,
+    "Name": "Ziad Ezzat Al -Baz Ramadan Al -Baz",
+    "Marks": {
+      "English": 76,
+      "Social Issues": 67,
+      "IS": 52,
+      "Discrete Math": 60,
+      "CS": 50,
+      "Mathematics": 68
+    },
+    "Full Mark": 373,
+    "GPA": 1.82,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051118,
+    "Name": "Ziad Muhammad Hussein Abdul Hamid",
+    "Marks": {
+      "English": 83,
+      "Social Issues": 74,
+      "IS": 84,
+      "Discrete Math": 76,
+      "CS": 77,
+      "Mathematics": 91
+    },
+    "Full Mark": 485,
+    "GPA": 2.98,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051119,
+    "Name": "Ziad Mustafa Ali Kamel",
+    "Marks": {
+      "English": 81,
+      "Social Issues": 79,
+      "IS": 74,
+      "Discrete Math": 65,
+      "CS": 59,
+      "Mathematics": 83
+    },
+    "Full Mark": 441,
+    "GPA": 2.46,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051120,
+    "Name": "Zainab Ahmed Anwar Khalil",
+    "Marks": {
+      "English": 78,
+      "Social Issues": 81,
+      "IS": 68,
+      "Discrete Math": 62,
+      "CS": 66,
+      "Mathematics": 63
+    },
+    "Full Mark": 418,
+    "GPA": 2.33,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051121,
+    "Name": "Zainab Sayed Ali Bakr",
+    "Marks": {
+      "English": 75,
+      "Social Issues": 73,
+      "IS": 65,
+      "Discrete Math": 71,
+      "CS": 57,
+      "Mathematics": 70
+    },
+    "Full Mark": 411,
+    "GPA": 2.24,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051122,
+    "Name": "Sarah Khaled Ezzat Muhammad Al -Banna",
+    "Marks": {
+      "English": 62,
+      "Social Issues": 77,
+      "IS": 70,
+      "Discrete Math": 71,
+      "CS": 57,
+      "Mathematics": 75
+    },
+    "Full Mark": 412,
+    "GPA": 2.26,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051123,
+    "Name": "Sarah Khairy Muhammad Fahmy",
+    "Marks": {
+      "English": 82,
+      "Social Issues": 61,
+      "IS": 60,
+      "Discrete Math": 65,
+      "CS": 54,
+      "Mathematics": 87
+    },
+    "Full Mark": 409,
+    "GPA": 2.2,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051124,
+    "Name": "Sarah Sayed Eid Mahmoud Ali",
+    "Marks": {
+      "English": 69,
+      "Social Issues": 83,
+      "IS": 78,
+      "Discrete Math": 62,
+      "CS": 74,
+      "Mathematics": 70
+    },
+    "Full Mark": 436,
+    "GPA": 2.51,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051125,
+    "Name": "Sarah Mohamed Shukry Abdel Fattah",
+    "Marks": {
+      "English": 69,
+      "Social Issues": 73,
+      "IS": 69,
+      "Discrete Math": 50,
+      "CS": 73,
+      "Mathematics": 75
+    },
+    "Full Mark": 409,
+    "GPA": 2.23,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051126,
+    "Name": "Sarah Mohamed Abdel Hamid Abdel Hadi",
+    "Marks": {
+      "English": 51,
+      "Social Issues": 63,
+      "IS": 60,
+      "Discrete Math": 63,
+      "CS": 55,
+      "Mathematics": 68
+    },
+    "Full Mark": 360,
+    "GPA": 1.85,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051127,
+    "Name": "Sarah Mahmoud Fathi Abdul Sattar",
+    "Marks": {
+      "English": 75,
+      "Social Issues": 81,
+      "IS": 69,
+      "Discrete Math": 58,
+      "CS": 81,
+      "Mathematics": 71
+    },
+    "Full Mark": 435,
+    "GPA": 2.44,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051128,
+    "Name": "Sam Ehab Al -Fil Ibrahim Gerges",
+    "Marks": {
+      "English": 66,
+      "Social Issues": 57,
+      "IS": 42,
+      "Discrete Math": 59,
+      "CS": 45,
+      "Mathematics": 58
+    },
+    "Full Mark": 327,
+    "GPA": 1.02,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051129,
+    "Name": "Sami Muhammad Sami Ali Ibrahim",
+    "Marks": {
+      "English": 78,
+      "Social Issues": 73,
+      "IS": 66,
+      "Discrete Math": 56,
+      "CS": 52,
+      "Mathematics": 84
+    },
+    "Full Mark": 409,
+    "GPA": 2.15,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051130,
+    "Name": "Sandy Hany Sadiq Bakhit",
+    "Marks": {
+      "English": 70,
+      "Social Issues": 80,
+      "IS": 73,
+      "Discrete Math": 74,
+      "CS": 65,
+      "Mathematics": 88
+    },
+    "Full Mark": 450,
+    "GPA": 2.7,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051131,
+    "Name": "Saeed Sami Saber Abdel Wahab",
+    "Marks": {
+      "English": 66,
+      "Social Issues": 64,
+      "IS": 47,
+      "Discrete Math": 55,
+      "CS": 38,
+      "Mathematics": 52
+    },
+    "Full Mark": 322,
+    "GPA": 1.01,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051132,
+    "Name": "Saeed Nadim Saeed Shaarawi",
+    "Marks": {
+      "English": 86,
+      "Social Issues": 80,
+      "IS": 82,
+      "Discrete Math": 72,
+      "CS": 85,
+      "Mathematics": 88
+    },
+    "Full Mark": 493,
+    "GPA": 3.06,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051133,
+    "Name": "Salma Salah Muhammad Mukhtar",
+    "Marks": {
+      "English": 90,
+      "Social Issues": 94,
+      "IS": 91,
+      "Discrete Math": 89,
+      "CS": 85,
+      "Mathematics": 86
+    },
+    "Full Mark": 535,
+    "GPA": 3.36,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051134,
+    "Name": "Sama Ahmed Hassan Mohamed",
+    "Marks": {
+      "English": 80,
+      "Social Issues": 73,
+      "IS": 69,
+      "Discrete Math": 84,
+      "CS": 62,
+      "Mathematics": 82
+    },
+    "Full Mark": 450,
+    "GPA": 2.68,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051135,
+    "Name": "Sama Osama Abdel Salam Abdel Fattah",
+    "Marks": {
+      "English": 89,
+      "Social Issues": 95,
+      "IS": 92,
+      "Discrete Math": 80,
+      "CS": 82,
+      "Mathematics": 92
+    },
+    "Full Mark": 530,
+    "GPA": 3.4,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051136,
+    "Name": "Sama Osama Muhammad Yunus",
+    "Marks": {
+      "English": 86,
+      "Social Issues": 86,
+      "IS": 81,
+      "Discrete Math": 83,
+      "CS": 75,
+      "Mathematics": 82
+    },
+    "Full Mark": 493,
+    "GPA": 2.97,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051137,
+    "Name": "Sama Saeed Mohammed Al -Fishawy",
+    "Marks": {
+      "English": 90,
+      "Social Issues": 78,
+      "IS": 79,
+      "Discrete Math": 73,
+      "CS": 83,
+      "Mathematics": 89
+    },
+    "Full Mark": 492,
+    "GPA": 2.98,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051138,
+    "Name": "Samira Hazem Ahmed Hashem",
+    "Marks": {
+      "English": 92,
+      "Social Issues": 84,
+      "IS": 88,
+      "Discrete Math": 77,
+      "CS": 91,
+      "Mathematics": 93
+    },
+    "Full Mark": 525,
+    "GPA": 3.35,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051139,
+    "Name": "Sundus Ahmed Muhammad Jamal Al -Din",
+    "Marks": {
+      "English": 74,
+      "Social Issues": 74,
+      "IS": 69,
+      "Discrete Math": 70,
+      "CS": 73,
+      "Mathematics": 64
+    },
+    "Full Mark": 424,
+    "GPA": 2.45,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051140,
+    "Name": "Saif Ahmed Ibrahim Abdullah Ibrahim",
+    "Marks": {
+      "English": 71,
+      "Social Issues": 68,
+      "IS": 53,
+      "Discrete Math": 52,
+      "CS": 54,
+      "Mathematics": 75
+    },
+    "Full Mark": 373,
+    "GPA": 1.65,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051141,
+    "Name": "Saif Ahmed Al -Sayed Mohamed Saeed Al -Muzaz",
+    "Marks": {
+      "English": 93,
+      "Social Issues": 88,
+      "IS": 89,
+      "Discrete Math": 80,
+      "CS": 87,
+      "Mathematics": 78
+    },
+    "Full Mark": 515,
+    "GPA": 3.21,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051142,
+    "Name": "Saif Al -Din Syed Hafez Sabra Ali",
+    "Marks": {
+      "English": 47,
+      "Social Issues": 68,
+      "IS": 43,
+      "Discrete Math": 26,
+      "CS": 46,
+      "Mathematics": 68
+    },
+    "Full Mark": 298,
+    "GPA": 0.75,
+    "Rating": "Very Weak"
+  },
+  {
+    "Seat Number": 231051143,
+    "Name": "Saif Al -Din Shaban Younis Ibrahim",
+    "Marks": {
+      "English": 61,
+      "Social Issues": 57,
+      "IS": 55,
+      "Discrete Math": 42,
+      "CS": 44,
+      "Mathematics": 81
+    },
+    "Full Mark": 340,
+    "GPA": 1.28,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051144,
+    "Name": "Shorouk Hani Ali Abdel Razek",
+    "Marks": {
+      "English": 51,
+      "Social Issues": 63,
+      "IS": 66,
+      "Discrete Math": 60,
+      "CS": 37,
+      "Mathematics": 67
+    },
+    "Full Mark": 344,
+    "GPA": 1.57,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051145,
+    "Name": "Shehab Hossam El Din Helmy Mohamed",
+    "Marks": {
+      "English": 77,
+      "Social Issues": 94,
+      "IS": 89,
+      "Discrete Math": 81,
+      "CS": 80,
+      "Mathematics": 96
+    },
+    "Full Mark": 517,
+    "GPA": 3.32,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051146,
+    "Name": "Mohamed Fouad Bayoumi Ahmed witnessed",
+    "Marks": {
+      "English": 87,
+      "Social Issues": 92,
+      "IS": 80,
+      "Discrete Math": 90,
+      "CS": 81,
+      "Mathematics": 75
+    },
+    "Full Mark": 505,
+    "GPA": 3.11,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051147,
+    "Name": "Longing by Mr. Ahmed Mahdi",
+    "Marks": {
+      "English": 89,
+      "Social Issues": 95,
+      "IS": 94,
+      "Discrete Math": 82,
+      "CS": 86,
+      "Mathematics": 89
+    },
+    "Full Mark": 535,
+    "GPA": 3.38,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051148,
+    "Name": "Sherine Haitham Labib Abdul Rahim",
+    "Marks": {
+      "English": 56,
+      "Social Issues": 72,
+      "IS": 55,
+      "Discrete Math": 50,
+      "CS": 43,
+      "Mathematics": 53
+    },
+    "Full Mark": 329,
+    "GPA": 1.16,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051149,
+    "Name": "Sadiq Rizk Allah Fathi Salib",
+    "Marks": {
+      "English": 81,
+      "Social Issues": 73,
+      "IS": 77,
+      "Discrete Math": 73,
+      "CS": 79,
+      "Mathematics": 86
+    },
+    "Full Mark": 469,
+    "GPA": 2.83,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051150,
+    "Name": "Duha Abdul Rahman Abdul Qadir Abdul Rahman",
+    "Marks": {
+      "English": 70,
+      "Social Issues": 72,
+      "IS": 69,
+      "Discrete Math": 65,
+      "CS": 60,
+      "Mathematics": 72
+    },
+    "Full Mark": 408,
+    "GPA": 2.35,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051151,
+    "Name": "Dua Mustafa Fathi Mustafa",
+    "Marks": {
+      "English": 76,
+      "Social Issues": 87,
+      "IS": 79,
+      "Discrete Math": 69,
+      "CS": 89,
+      "Mathematics": 86
+    },
+    "Full Mark": 486,
+    "GPA": 2.96,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051152,
+    "Name": "Taher Mahmoud Mohamed Jamil",
+    "Marks": {
+      "English": 53,
+      "Social Issues": 69,
+      "IS": 56,
+      "Discrete Math": 51,
+      "CS": 56,
+      "Mathematics": 65
+    },
+    "Full Mark": 350,
+    "GPA": 1.58,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051153,
+    "Name": "Assem Wael Rabee Mahfouz Muhammad",
+    "Marks": {
+      "English": 69,
+      "Social Issues": 78,
+      "IS": 69,
+      "Discrete Math": 50,
+      "CS": 73,
+      "Mathematics": 86
+    },
+    "Full Mark": 425,
+    "GPA": 2.37,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051154,
+    "Name": "Abdul Rahman Ezzat Hassan Al -Sayed",
+    "Marks": {
+      "English": 87,
+      "Social Issues": 81,
+      "IS": 71,
+      "Discrete Math": 64,
+      "CS": 63,
+      "Mathematics": 84
+    },
+    "Full Mark": 450,
+    "GPA": 2.61,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051155,
+    "Name": "Abdullah Ahmed Muhammad Hassanein Muhammad",
+    "Marks": {
+      "English": 71,
+      "Social Issues": 63,
+      "IS": 51,
+      "Discrete Math": 50,
+      "CS": 59,
+      "Mathematics": 81
+    },
+    "Full Mark": 375,
+    "GPA": 1.76,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051156,
+    "Name": "Abdul Rahman Ahmed Saad Abdul Samea Ahmed",
+    "Marks": {
+      "English": 69,
+      "Social Issues": 73,
+      "IS": 58,
+      "Discrete Math": 58,
+      "CS": 61,
+      "Mathematics": 59
+    },
+    "Full Mark": 378,
+    "GPA": 1.84,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051157,
+    "Name": "Abdul Rahman Ahmed Abdullah Thabet",
+    "Marks": {
+      "English": 63,
+      "Social Issues": 68,
+      "IS": 50,
+      "Discrete Math": 50,
+      "CS": 41,
+      "Mathematics": 56
+    },
+    "Full Mark": 328,
+    "GPA": 1.2,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051158,
+    "Name": "Abdul Rahman Badawi Ali Badawi",
+    "Marks": {
+      "English": 83,
+      "Social Issues": 66,
+      "IS": 69,
+      "Discrete Math": 50,
+      "CS": 58,
+      "Mathematics": 66
+    },
+    "Full Mark": 392,
+    "GPA": 1.98,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051159,
+    "Name": "Abdul Rahman Khaled Muhammad Abdul -Salam",
+    "Marks": {
+      "English": 70,
+      "Social Issues": 63,
+      "IS": 55,
+      "Discrete Math": 50,
+      "CS": 40,
+      "Mathematics": 54
+    },
+    "Full Mark": 332,
+    "GPA": 1.2,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051160,
+    "Name": "Abdul Rahman Saeed Abu Al -Hadiya Mahmoud",
+    "Marks": {
+      "English": 73,
+      "Social Issues": 72,
+      "IS": 66,
+      "Discrete Math": 77,
+      "CS": 62,
+      "Mathematics": 90
+    },
+    "Full Mark": 440,
+    "GPA": 2.6,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051161,
+    "Name": "Abdul Rahman Atef Al -Sayed Hashem",
+    "Marks": {
+      "English": 75,
+      "Social Issues": 69,
+      "IS": 62,
+      "Discrete Math": 64,
+      "CS": 66,
+      "Mathematics": 83
+    },
+    "Full Mark": 419,
+    "GPA": 2.38,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051162,
+    "Name": "Abdul Rahman Omar Mustafa Kamal",
+    "Marks": {
+      "English": 72,
+      "Social Issues": 75,
+      "IS": 61,
+      "Discrete Math": 55,
+      "CS": 61,
+      "Mathematics": 84
+    },
+    "Full Mark": 408,
+    "GPA": 2.28,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051163,
+    "Name": "Abdul Rahman Magdy Mohamed Mohamed",
+    "Marks": {
+      "English": 66,
+      "Social Issues": 68,
+      "IS": 57,
+      "Discrete Math": 68,
+      "CS": 46,
+      "Mathematics": 80
+    },
+    "Full Mark": 385,
+    "GPA": 1.86,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051164,
+    "Name": "Abdul Rahman Muhammad Sayed Abdul Latif",
+    "Marks": {
+      "English": 50,
+      "Social Issues": 68,
+      "IS": 56,
+      "Discrete Math": 22,
+      "CS": 61,
+      "Mathematics": 67
+    },
+    "Full Mark": 324,
+    "GPA": 1.49,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051165,
+    "Name": "Abdul Rahman Muhammad Muhammad Muhammad Darwish",
+    "Marks": {
+      "English": 81,
+      "Social Issues": 80,
+      "IS": 74,
+      "Discrete Math": 75,
+      "CS": 77,
+      "Mathematics": 89
+    },
+    "Full Mark": 476,
+    "GPA": 2.88,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051166,
+    "Name": "Abdul Rahim Farghali Abdul Hakim Abdul Rahim",
+    "Marks": {
+      "English": 64,
+      "Social Issues": 80,
+      "IS": 73,
+      "Discrete Math": 63,
+      "CS": 64,
+      "Mathematics": 73
+    },
+    "Full Mark": 417,
+    "GPA": 2.41,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051167,
+    "Name": "Abdel -Aal Ramadan Abdel -Hakim Ali Qasim",
+    "Marks": {
+      "English": 56,
+      "Social Issues": 87,
+      "IS": 64,
+      "Discrete Math": 35,
+      "CS": 57,
+      "Mathematics": 56
+    },
+    "Full Mark": 355,
+    "GPA": 1.56,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051168,
+    "Name": "Abdulaziz Hani Abdulaziz Moawad Abdel Samie",
+    "Marks": {
+      "English": 53,
+      "Social Issues": 69,
+      "IS": 50,
+      "Discrete Math": 27,
+      "CS": 32,
+      "Mathematics": 45
+    },
+    "Full Mark": 276,
+    "GPA": 0.61,
+    "Rating": "Very Weak"
+  },
+  {
+    "Seat Number": 231051169,
+    "Name": "Abdullah Ahmed Mohammed Rajab",
+    "Marks": {
+      "English": 62,
+      "Social Issues": 68,
+      "IS": 57,
+      "Discrete Math": 57,
+      "CS": 55,
+      "Mathematics": 75
+    },
+    "Full Mark": 374,
+    "GPA": 1.88,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051170,
+    "Name": "Abdullah Abdul Rahman Abdullah Mohammed",
+    "Marks": {
+      "English": 58,
+      "Social Issues": 75,
+      "IS": 59,
+      "Discrete Math": 74,
+      "CS": 66,
+      "Mathematics": 70
+    },
+    "Full Mark": 402,
+    "GPA": 2.14,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051171,
+    "Name": "Abdullah Abdul Qadir Salah Al -Mahdali",
+    "Marks": {
+      "English": 52,
+      "Social Issues": 79,
+      "IS": 68,
+      "Discrete Math": 50,
+      "CS": 44,
+      "Mathematics": 59
+    },
+    "Full Mark": 352,
+    "GPA": 1.39,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051172,
+    "Name": "Abdullah Mohammed Abdul Ati Mohammed Ahmed",
+    "Marks": {
+      "English": 79,
+      "Social Issues": 67,
+      "IS": 51,
+      "Discrete Math": 52,
+      "CS": 35,
+      "Mathematics": 61
+    },
+    "Full Mark": 345,
+    "GPA": 1.37,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051173,
+    "Name": "Abdullah Mohammed Abdullah Shaban",
+    "Marks": {
+      "English": 72,
+      "Social Issues": 79,
+      "IS": 55,
+      "Discrete Math": 59,
+      "CS": 56,
+      "Mathematics": 76
+    },
+    "Full Mark": 397,
+    "GPA": 2.04,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051174,
+    "Name": "Abdullah Mamdouh Riyad Al -Halawani",
+    "Marks": {
+      "English": 64,
+      "Social Issues": 68,
+      "IS": 67,
+      "Discrete Math": 50,
+      "CS": 58,
+      "Mathematics": 74
+    },
+    "Full Mark": 381,
+    "GPA": 1.94,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051175,
+    "Name": "Ali Ahmed Bahi Al -Din Ahmed",
+    "Marks": {
+      "English": 77,
+      "Social Issues": 62,
+      "IS": 71,
+      "Discrete Math": 63,
+      "CS": 63,
+      "Mathematics": 73
+    },
+    "Full Mark": 409,
+    "GPA": 2.28,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051176,
+    "Name": "Ali Hassan Muhammad Hassan Saadah",
+    "Marks": {
+      "English": 75,
+      "Social Issues": 63,
+      "IS": 59,
+      "Discrete Math": 59,
+      "CS": 63,
+      "Mathematics": 93
+    },
+    "Full Mark": 412,
+    "GPA": 2.2,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051177,
+    "Name": "Ali Abdo Ali Abdo",
+    "Marks": {
+      "English": 91,
+      "Social Issues": 87,
+      "IS": 76,
+      "Discrete Math": 91,
+      "CS": 93,
+      "Mathematics": 91
+    },
+    "Full Mark": 529,
+    "GPA": 3.31,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051178,
+    "Name": "Ali Ezz Ali Alyan Hassan",
+    "Marks": {
+      "English": 90,
+      "Social Issues": 89,
+      "IS": 93,
+      "Discrete Math": 93,
+      "CS": 92,
+      "Mathematics": 93
+    },
+    "Full Mark": 550,
+    "GPA": 3.62,
+    "Rating": "Excellent"
+  },
+  {
+    "Seat Number": 231051179,
+    "Name": "Ali Muhammad Muhammad Abd Rabbo",
+    "Marks": {
+      "English": 56,
+      "Social Issues": 64,
+      "IS": 50,
+      "Discrete Math": 47,
+      "CS": 57,
+      "Mathematics": 66
+    },
+    "Full Mark": 340,
+    "GPA": 1.34,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051180,
+    "Name": "Ali Mutasim Mamdouh Eid",
+    "Marks": {
+      "English": 77,
+      "Social Issues": 74,
+      "IS": 80,
+      "Discrete Math": 77,
+      "CS": 90,
+      "Mathematics": 95
+    },
+    "Full Mark": 493,
+    "GPA": 3.09,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051181,
+    "Name": "Ammar Ibrahim Muhammad Hamid Suleiman",
+    "Marks": {
+      "English": 73,
+      "Social Issues": 69,
+      "IS": 69,
+      "Discrete Math": 71,
+      "CS": 47,
+      "Mathematics": 63
+    },
+    "Full Mark": 392,
+    "GPA": 1.9,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051182,
+    "Name": "Ammar Muhammad Helmy Muhammad",
+    "Marks": {
+      "English": 79,
+      "Social Issues": 68,
+      "IS": 68,
+      "Discrete Math": 70,
+      "CS": 58,
+      "Mathematics": 71
+    },
+    "Full Mark": 414,
+    "GPA": 2.28,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051183,
+    "Name": "Ammar Hani Mahdi Imam",
+    "Marks": {
+      "English": 80,
+      "Social Issues": 73,
+      "IS": 74,
+      "Discrete Math": 71,
+      "CS": 78,
+      "Mathematics": 90
+    },
+    "Full Mark": 466,
+    "GPA": 2.8,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051184,
+    "Name": "Omar Ashraf Hilali Metwally Bakr",
+    "Marks": {
+      "English": 72,
+      "Social Issues": 73,
+      "IS": 63,
+      "Discrete Math": 63,
+      "CS": 65,
+      "Mathematics": 70
+    },
+    "Full Mark": 406,
+    "GPA": 2.26,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051185,
+    "Name": "Omar Amir Abdul Hamid Al -Sayed Ali",
+    "Marks": {
+      "English": 79,
+      "Social Issues": 67,
+      "IS": 63,
+      "Discrete Math": 65,
+      "CS": 56,
+      "Mathematics": 65
+    },
+    "Full Mark": 395,
+    "GPA": 2.1,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051186,
+    "Name": "Omar Hassan Amin Habib",
+    "Marks": {
+      "English": 88,
+      "Social Issues": 72,
+      "IS": 77,
+      "Discrete Math": 61,
+      "CS": 74,
+      "Mathematics": 84
+    },
+    "Full Mark": 456,
+    "GPA": 2.73,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051187,
+    "Name": "Omar Khaled Zakaria Abdulaziz",
+    "Marks": {
+      "English": 56,
+      "Social Issues": 65,
+      "IS": 53,
+      "Discrete Math": 61,
+      "CS": 72,
+      "Mathematics": 76
+    },
+    "Full Mark": 383,
+    "GPA": 2.03,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051188,
+    "Name": "Omar Khaled Atris Saleh",
+    "Marks": {
+      "English": 82,
+      "Social Issues": 76,
+      "IS": 61,
+      "Discrete Math": 57,
+      "CS": 58,
+      "Mathematics": 66
+    },
+    "Full Mark": 400,
+    "GPA": 2.07,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051189,
+    "Name": "Omar Imad Al -Din Mahmoud Imam",
+    "Marks": {
+      "English": 68,
+      "Social Issues": 72,
+      "IS": 62,
+      "Discrete Math": 40,
+      "CS": 61,
+      "Mathematics": 57
+    },
+    "Full Mark": 360,
+    "GPA": 1.65,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051190,
+    "Name": "Omar Mubarak Abdul Mawla Hamida",
+    "Marks": {
+      "English": 73,
+      "Social Issues": 85,
+      "IS": 77,
+      "Discrete Math": 71,
+      "CS": 94,
+      "Mathematics": 90
+    },
+    "Full Mark": 490,
+    "GPA": 3.03,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051191,
+    "Name": "Omar Muhammad Al -Sayed Saleh Ruk",
+    "Marks": {
+      "English": 63,
+      "Social Issues": 67,
+      "IS": 55,
+      "Discrete Math": 47,
+      "CS": 54,
+      "Mathematics": 70
+    },
+    "Full Mark": 356,
+    "GPA": 1.44,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051192,
+    "Name": "Omar Muhammad Omar Ahmed Hashem",
+    "Marks": {
+      "English": 67,
+      "Social Issues": 81,
+      "IS": 81,
+      "Discrete Math": 70,
+      "CS": 70,
+      "Mathematics": 87
+    },
+    "Full Mark": 456,
+    "GPA": 2.71,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051193,
+    "Name": "Omar Hisham Abdulaziz Muhammad Younis",
+    "Marks": {
+      "English": 70,
+      "Social Issues": 72,
+      "IS": 72,
+      "Discrete Math": 67,
+      "CS": 64,
+      "Mathematics": 77
+    },
+    "Full Mark": 422,
+    "GPA": 2.46,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051194,
+    "Name": "Omar Walid Hassan Sophie",
+    "Marks": {
+      "English": 87,
+      "Social Issues": 62,
+      "IS": 74,
+      "Discrete Math": 57,
+      "CS": 70,
+      "Mathematics": 69
+    },
+    "Full Mark": 419,
+    "GPA": 2.31,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051195,
+    "Name": "Amr Khaled Abu Al -Fotouh, official Muhammad",
+    "Marks": {
+      "English": 69,
+      "Social Issues": 61,
+      "IS": 69,
+      "Discrete Math": 63,
+      "CS": 60,
+      "Mathematics": 77
+    },
+    "Full Mark": 399,
+    "GPA": 2.27,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051196,
+    "Name": "Amr Khaled Qutb Abdul Ghani",
+    "Marks": {
+      "English": 60,
+      "Social Issues": 73,
+      "IS": 65,
+      "Discrete Math": 57,
+      "CS": 51,
+      "Mathematics": 77
+    },
+    "Full Mark": 383,
+    "GPA": 1.98,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051197,
+    "Name": "Amr Khaled Mustafa Abbas",
+    "Marks": {
+      "English": 83,
+      "Social Issues": 80,
+      "IS": 82,
+      "Discrete Math": 70,
+      "CS": 68,
+      "Mathematics": 83
+    },
+    "Full Mark": 466,
+    "GPA": 2.77,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051198,
+    "Name": "Amr Tariq Salah Abdel -Azim Al -Habyan",
+    "Marks": {
+      "English": 88,
+      "Social Issues": 81,
+      "IS": 75,
+      "Discrete Math": 76,
+      "CS": 64,
+      "Mathematics": 97
+    },
+    "Full Mark": 481,
+    "GPA": 2.97,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051199,
+    "Name": "Amr Atef Kamal Ali",
+    "Marks": {
+      "English": 86,
+      "Social Issues": 66,
+      "IS": 77,
+      "Discrete Math": 73,
+      "CS": 62,
+      "Mathematics": 82
+    },
+    "Full Mark": 446,
+    "GPA": 2.62,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051200,
+    "Name": "Amr Mohamed Mahmoud Fikkar",
+    "Marks": {
+      "English": 81,
+      "Social Issues": 72,
+      "IS": 58,
+      "Discrete Math": 50,
+      "CS": 52,
+      "Mathematics": 68
+    },
+    "Full Mark": 381,
+    "GPA": 1.8,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051201,
+    "Name": "Fatima Tariq bin Ziyad Muhammad Ahmed and Rad",
+    "Marks": {
+      "English": 92,
+      "Social Issues": 89,
+      "IS": 87,
+      "Discrete Math": 89,
+      "CS": 89,
+      "Mathematics": 93
+    },
+    "Full Mark": 539,
+    "GPA": 3.45,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051202,
+    "Name": "Farah Amr Sami Mahmoud",
+    "Marks": {
+      "English": 74,
+      "Social Issues": 74,
+      "IS": 61,
+      "Discrete Math": 51,
+      "CS": 52,
+      "Mathematics": 82
+    },
+    "Full Mark": 394,
+    "GPA": 1.96,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051203,
+    "Name": "Farida and Wajdi Muhammad Alwa Muhammad",
+    "Marks": {
+      "English": 81,
+      "Social Issues": 69,
+      "IS": 79,
+      "Discrete Math": 61,
+      "CS": 70,
+      "Mathematics": 78
+    },
+    "Full Mark": 438,
+    "GPA": 2.55,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051204,
+    "Name": "Karim Ashraf Youssef Ali Abdul -Malik",
+    "Marks": {
+      "English": 91,
+      "Social Issues": 78,
+      "IS": 80,
+      "Discrete Math": 85,
+      "CS": 78,
+      "Mathematics": 87
+    },
+    "Full Mark": 499,
+    "GPA": 3.06,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051205,
+    "Name": "Karim Hamid Fahmy Atto",
+    "Marks": {
+      "English": 83,
+      "Social Issues": 69,
+      "IS": 76,
+      "Discrete Math": 70,
+      "CS": 84,
+      "Mathematics": 87
+    },
+    "Full Mark": 469,
+    "GPA": 2.85,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051206,
+    "Name": "Karim Hassan Amin Habib",
+    "Marks": {
+      "English": 84,
+      "Social Issues": 75,
+      "IS": 81,
+      "Discrete Math": 65,
+      "CS": 82,
+      "Mathematics": 84
+    },
+    "Full Mark": 471,
+    "GPA": 2.86,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051207,
+    "Name": "Karim Hamada Muhammad Salman",
+    "Marks": {
+      "English": 78,
+      "Social Issues": 84,
+      "IS": 79,
+      "Discrete Math": 75,
+      "CS": 88,
+      "Mathematics": 91
+    },
+    "Full Mark": 495,
+    "GPA": 3.03,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051208,
+    "Name": "Karim Abdul Rahman Ahmed Mohamed",
+    "Marks": {
+      "English": 77,
+      "Social Issues": 85,
+      "IS": 75,
+      "Discrete Math": 73,
+      "CS": 60,
+      "Mathematics": 70
+    },
+    "Full Mark": 440,
+    "GPA": 2.55,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051209,
+    "Name": "Karim Mohamed Abdel Karim Khattab Al -Qabili",
+    "Marks": {
+      "English": 82,
+      "Social Issues": 85,
+      "IS": 66,
+      "Discrete Math": 72,
+      "CS": 62,
+      "Mathematics": 81
+    },
+    "Full Mark": 448,
+    "GPA": 2.61,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051210,
+    "Name": "Kyrillos Rami Ernst Paul Suleiman",
+    "Marks": {
+      "English": 66,
+      "Social Issues": 70,
+      "IS": 78,
+      "Discrete Math": 61,
+      "CS": 50,
+      "Mathematics": 80
+    },
+    "Full Mark": 405,
+    "GPA": 2.22,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051211,
+    "Name": "Kyrillos Nabil Daniel Club",
+    "Marks": {
+      "English": 65,
+      "Social Issues": 72,
+      "IS": 75,
+      "Discrete Math": 66,
+      "CS": 51,
+      "Mathematics": 87
+    },
+    "Full Mark": 416,
+    "GPA": 2.28,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051212,
+    "Name": "Louay Hani Hamid Abdel Moneim",
+    "Marks": {
+      "English": 87,
+      "Social Issues": 75,
+      "IS": 74,
+      "Discrete Math": 71,
+      "CS": 60,
+      "Mathematics": 63
+    },
+    "Full Mark": 430,
+    "GPA": 2.41,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051213,
+    "Name": "Lillian Shehata Shukry Shehata",
+    "Marks": {
+      "English": 68,
+      "Social Issues": 70,
+      "IS": 67,
+      "Discrete Math": 76,
+      "CS": 71,
+      "Mathematics": 86
+    },
+    "Full Mark": 438,
+    "GPA": 2.58,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051214,
+    "Name": "Majid Maher Naguib Summer Abadir",
+    "Marks": {
+      "English": 50,
+      "Social Issues": 60,
+      "IS": 67,
+      "Discrete Math": 65,
+      "CS": 51,
+      "Mathematics": 60
+    },
+    "Full Mark": 353,
+    "GPA": 1.76,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051215,
+    "Name": "Martin Nashat Maher Shaker",
+    "Marks": {
+      "English": 80,
+      "Social Issues": 58,
+      "IS": 64,
+      "Discrete Math": 70,
+      "CS": 55,
+      "Mathematics": 85
+    },
+    "Full Mark": 412,
+    "GPA": 2.3,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051216,
+    "Name": "Maria Gerges Anwar Abadir",
+    "Marks": {
+      "English": 87,
+      "Social Issues": 83,
+      "IS": 71,
+      "Discrete Math": 82,
+      "CS": 69,
+      "Mathematics": 83
+    },
+    "Full Mark": 475,
+    "GPA": 2.8,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051217,
+    "Name": "Marina Sami Fawzi Naguib",
+    "Marks": {
+      "English": 85,
+      "Social Issues": 89,
+      "IS": 83,
+      "Discrete Math": 54,
+      "CS": 69,
+      "Mathematics": 81
+    },
+    "Full Mark": 461,
+    "GPA": 2.58,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051218,
+    "Name": "Mario Sameh William Sadiq Youssef",
+    "Marks": {
+      "English": 90,
+      "Social Issues": 71,
+      "IS": 75,
+      "Discrete Math": 67,
+      "CS": 73,
+      "Mathematics": 63
+    },
+    "Full Mark": 439,
+    "GPA": 2.48,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051219,
+    "Name": "Mazen Ibrahim Mustafa Abdel -Moaty",
+    "Marks": {
+      "English": 66,
+      "Social Issues": 73,
+      "IS": 57,
+      "Discrete Math": 63,
+      "CS": 42,
+      "Mathematics": 61
+    },
+    "Full Mark": 362,
+    "GPA": 1.63,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051220,
+    "Name": "Mazen Ayman Mohamed Ayyad",
+    "Marks": {
+      "English": 55,
+      "Social Issues": 77,
+      "IS": 63,
+      "Discrete Math": 79,
+      "CS": 71,
+      "Mathematics": 93
+    },
+    "Full Mark": 438,
+    "GPA": 2.58,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051221,
+    "Name": "Mazen Reda Mamdouh Ibrahim",
+    "Marks": {
+      "English": 73,
+      "Social Issues": 75,
+      "IS": 64,
+      "Discrete Math": 68,
+      "CS": 70,
+      "Mathematics": 79
+    },
+    "Full Mark": 429,
+    "GPA": 2.48,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051222,
+    "Name": "Mazen Shazly Jaafar Hamza Suleiman",
+    "Marks": {
+      "English": 73,
+      "Social Issues": 68,
+      "IS": 69,
+      "Discrete Math": 54,
+      "CS": 50,
+      "Mathematics": 85
+    },
+    "Full Mark": 399,
+    "GPA": 2.05,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051223,
+    "Name": "Mazen Arabi Abdullah Fahim",
+    "Marks": {
+      "English": 75,
+      "Social Issues": 68,
+      "IS": 72,
+      "Discrete Math": 71,
+      "CS": 56,
+      "Mathematics": 71
+    },
+    "Full Mark": 413,
+    "GPA": 2.29,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051225,
+    "Name": "Mazen Mohamed El -Sayed Abdel -Mazz",
+    "Marks": {
+      "English": 63,
+      "Social Issues": 74,
+      "IS": 80,
+      "Discrete Math": 69,
+      "CS": 50,
+      "Mathematics": 68
+    },
+    "Full Mark": 404,
+    "GPA": 2.22,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051226,
+    "Name": "Mazen Mohammed Abdullah Ibrahim",
+    "Marks": {
+      "English": 62,
+      "Social Issues": 63,
+      "IS": 68,
+      "Discrete Math": 62,
+      "CS": 50,
+      "Mathematics": 60
+    },
+    "Full Mark": 365,
+    "GPA": 1.88,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051227,
+    "Name": "Mohammed Ahmed Hussein Hassan",
+    "Marks": {
+      "English": 70,
+      "Social Issues": 67,
+      "IS": 78,
+      "Discrete Math": 47,
+      "CS": 55,
+      "Mathematics": 73
+    },
+    "Full Mark": 390,
+    "GPA": 1.86,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051228,
+    "Name": "Muhammad Ahmad Muhammad Muhammad Abu Zaid",
+    "Marks": {
+      "English": 69,
+      "Social Issues": 71,
+      "IS": 68,
+      "Discrete Math": 54,
+      "CS": 53,
+      "Mathematics": 62
+    },
+    "Full Mark": 377,
+    "GPA": 1.8,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051229,
+    "Name": "Mohamed Ahmed Mohamed Kamel Melji",
+    "Marks": {
+      "English": 50,
+      "Social Issues": 82,
+      "IS": 63,
+      "Discrete Math": 43,
+      "CS": 56,
+      "Mathematics": 76
+    },
+    "Full Mark": 370,
+    "GPA": 1.68,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051230,
+    "Name": "Muhammad Ashraf Abdel Hamid Muhammad Hindawi",
+    "Marks": {
+      "English": 52,
+      "Social Issues": 80,
+      "IS": 83,
+      "Discrete Math": 80,
+      "CS": 57,
+      "Mathematics": 85
+    },
+    "Full Mark": 437,
+    "GPA": 2.5,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051231,
+    "Name": "Muhammad Ashraf Muhammad Muhammad Jad Allah",
+    "Marks": {
+      "English": 57,
+      "Social Issues": 72,
+      "IS": 70,
+      "Discrete Math": 54,
+      "CS": 59,
+      "Mathematics": 72
+    },
+    "Full Mark": 384,
+    "GPA": 1.91,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051232,
+    "Name": "Muhammad Ayman Suleiman Qurashi",
+    "Marks": {
+      "English": 64,
+      "Social Issues": 75,
+      "IS": 78,
+      "Discrete Math": 85,
+      "CS": 84,
+      "Mathematics": 92
+    },
+    "Full Mark": 478,
+    "GPA": 3.01,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051233,
+    "Name": "Mohamed Ehab Shehata Abdul Sadiq Shehata",
+    "Marks": {
+      "English": 59,
+      "Social Issues": 65,
+      "IS": 66,
+      "Discrete Math": 46,
+      "CS": 44,
+      "Mathematics": 58
+    },
+    "Full Mark": 338,
+    "GPA": 1.15,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051234,
+    "Name": "Muhammad Jundi Syed Ahmed",
+    "Marks": {
+      "English": 71,
+      "Social Issues": 87,
+      "IS": 82,
+      "Discrete Math": 58,
+      "CS": 64,
+      "Mathematics": 63
+    },
+    "Full Mark": 425,
+    "GPA": 2.33,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051235,
+    "Name": "Mohammed Khaled Hassan Ahmed Mohammed",
+    "Marks": {
+      "English": 77,
+      "Social Issues": 65,
+      "IS": 76,
+      "Discrete Math": 62,
+      "CS": 61,
+      "Mathematics": 71
+    },
+    "Full Mark": 412,
+    "GPA": 2.35,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051236,
+    "Name": "Muhammad Ramadan Syed Abdul Majeed Saleh",
+    "Marks": {
+      "English": 54,
+      "Social Issues": 62,
+      "IS": 62,
+      "Discrete Math": 50,
+      "CS": 50,
+      "Mathematics": 64
+    },
+    "Full Mark": 342,
+    "GPA": 1.53,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051237,
+    "Name": "Muhammad Zakaria Ismail Ali",
+    "Marks": {
+      "English": 73,
+      "Social Issues": 78,
+      "IS": 72,
+      "Discrete Math": 58,
+      "CS": 38,
+      "Mathematics": 66
+    },
+    "Full Mark": 385,
+    "GPA": 1.85,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051238,
+    "Name": "Muhammad Suleiman Thabet Suleiman",
+    "Marks": {
+      "English": 84,
+      "Social Issues": 74,
+      "IS": 67,
+      "Discrete Math": 60,
+      "CS": 64,
+      "Mathematics": 87
+    },
+    "Full Mark": 436,
+    "GPA": 2.52,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051239,
+    "Name": "Muhammad Samir Ezzat Syed Muhammad",
+    "Marks": {
+      "English": 43,
+      "Social Issues": 65,
+      "IS": 62,
+      "Discrete Math": 68,
+      "CS": 63,
+      "Mathematics": 80
+    },
+    "Full Mark": 381,
+    "GPA": 2.03,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051240,
+    "Name": "Muhammad Sayed Salah Ibrahim",
+    "Marks": {
+      "English": 82,
+      "Social Issues": 69,
+      "IS": 69,
+      "Discrete Math": 80,
+      "CS": 66,
+      "Mathematics": 87
+    },
+    "Full Mark": 453,
+    "GPA": 2.7,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051241,
+    "Name": "Muhammad Sayed Abdul Karim Abdel Hafez",
+    "Marks": {
+      "English": 61,
+      "Social Issues": 70,
+      "IS": 63,
+      "Discrete Math": 53,
+      "CS": 50,
+      "Mathematics": 60
+    },
+    "Full Mark": 357,
+    "GPA": 1.67,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051242,
+    "Name": "Mohamed Salah Mohamed Ahmed",
+    "Marks": {
+      "English": 86,
+      "Social Issues": 73,
+      "IS": 75,
+      "Discrete Math": 70,
+      "CS": 50,
+      "Mathematics": 66
+    },
+    "Full Mark": 420,
+    "GPA": 2.26,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051243,
+    "Name": "Muhammad Tariq Fathi Abdul Hadi Musa",
+    "Marks": {
+      "English": 75,
+      "Social Issues": 67,
+      "IS": 68,
+      "Discrete Math": 32,
+      "CS": 44,
+      "Mathematics": 72
+    },
+    "Full Mark": 358,
+    "GPA": 1.53,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051244,
+    "Name": "Muhammad Adel Ali Muhammad Azzam",
+    "Marks": {
+      "English": 68,
+      "Social Issues": 70,
+      "IS": 74,
+      "Discrete Math": 61,
+      "CS": 59,
+      "Mathematics": 64
+    },
+    "Full Mark": 396,
+    "GPA": 2.15,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051245,
+    "Name": "Muhammad Amer Abdullah Mustafa",
+    "Marks": {
+      "English": 54,
+      "Social Issues": 93,
+      "IS": 82,
+      "Discrete Math": 79,
+      "CS": 65,
+      "Mathematics": 80
+    },
+    "Full Mark": 453,
+    "GPA": 2.65,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051246,
+    "Name": "Muhammad Abdul Ghaffar Fathi Abdul Ghaffar",
+    "Marks": {
+      "English": 59,
+      "Social Issues": 64,
+      "IS": 69,
+      "Discrete Math": 45,
+      "CS": 52,
+      "Mathematics": 59
+    },
+    "Full Mark": 348,
+    "GPA": 1.38,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051247,
+    "Name": "Muhammad Abdul Majeed Abdul Hadi Ahmed",
+    "Marks": {
+      "English": 53,
+      "Social Issues": 65,
+      "IS": 57,
+      "Discrete Math": 41,
+      "CS": 35,
+      "Mathematics": 55
+    },
+    "Full Mark": 306,
+    "GPA": 0.96,
+    "Rating": "Very Weak"
+  },
+  {
+    "Seat Number": 231051248,
+    "Name": "Muhammad Alaa Jalal Sayed",
+    "Marks": {
+      "English": 58,
+      "Social Issues": 59,
+      "IS": 59,
+      "Discrete Math": 43,
+      "CS": 46,
+      "Mathematics": 81
+    },
+    "Full Mark": 346,
+    "GPA": 1.21,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051249,
+    "Name": "Muhammad Ali Abdul -Mawgoud Donia",
+    "Marks": {
+      "English": 76,
+      "Social Issues": 65,
+      "IS": 62,
+      "Discrete Math": 62,
+      "CS": 62,
+      "Mathematics": 85
+    },
+    "Full Mark": 412,
+    "GPA": 2.35,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051250,
+    "Name": "Muhammad Kamal Abu Al -Ma\u2019ati Muhammad",
+    "Marks": {
+      "English": 67,
+      "Social Issues": 67,
+      "IS": 74,
+      "Discrete Math": 52,
+      "CS": 58,
+      "Mathematics": 66
+    },
+    "Full Mark": 384,
+    "GPA": 1.91,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051251,
+    "Name": "Muhammad Kamal Muhammad Lotfy",
+    "Marks": {
+      "English": 43,
+      "Social Issues": 62,
+      "IS": 55,
+      "Discrete Math": 36,
+      "CS": 42,
+      "Mathematics": 67
+    },
+    "Full Mark": 305,
+    "GPA": 0.94,
+    "Rating": "Very Weak"
+  },
+  {
+    "Seat Number": 231051252,
+    "Name": "Muhammad Maher Al -Sayed Ali Muhammad Musa",
+    "Marks": {
+      "English": 75,
+      "Social Issues": 76,
+      "IS": 58,
+      "Discrete Math": 67,
+      "CS": 52,
+      "Mathematics": 62
+    },
+    "Full Mark": 390,
+    "GPA": 1.93,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051253,
+    "Name": "Muhammad Muhammad Jalal Muhammad Othman",
+    "Marks": {
+      "English": 85,
+      "Social Issues": 84,
+      "IS": 86,
+      "Discrete Math": 86,
+      "CS": 79,
+      "Mathematics": 93
+    },
+    "Full Mark": 513,
+    "GPA": 3.21,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051254,
+    "Name": "Muhammad Muhammad Zaki Bashindi",
+    "Marks": {
+      "English": 71,
+      "Social Issues": 64,
+      "IS": 76,
+      "Discrete Math": 45,
+      "CS": 56,
+      "Mathematics": 82
+    },
+    "Full Mark": 394,
+    "GPA": 1.94,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051255,
+    "Name": "Mohamed Mahmoud Hosni Mahmoud",
+    "Marks": {
+      "English": 55,
+      "Social Issues": 73,
+      "IS": 69,
+      "Discrete Math": 71,
+      "CS": 50,
+      "Mathematics": 69
+    },
+    "Full Mark": 387,
+    "GPA": 2.05,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051256,
+    "Name": "Mohamed Mahmoud Murad Mustafa",
+    "Marks": {
+      "English": 81,
+      "Social Issues": 85,
+      "IS": 74,
+      "Discrete Math": 67,
+      "CS": 72,
+      "Mathematics": 75
+    },
+    "Full Mark": 454,
+    "GPA": 2.65,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051257,
+    "Name": "Muhammad Medhat Sa\u2019ar Ahmed Salim",
+    "Marks": {
+      "English": 65,
+      "Social Issues": 62,
+      "IS": 63,
+      "Discrete Math": 57,
+      "CS": 62,
+      "Mathematics": 75
+    },
+    "Full Mark": 384,
+    "GPA": 2.04,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051258,
+    "Name": "Muhammad Musaad Muhammad Ahmed Ramadan",
+    "Marks": {
+      "English": 72,
+      "Social Issues": 80,
+      "IS": 70,
+      "Discrete Math": 77,
+      "CS": 78,
+      "Mathematics": 80
+    },
+    "Full Mark": 457,
+    "GPA": 2.76,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051259,
+    "Name": "Mohamed Mamdouh Al -Sayed Ali Mahmoud",
+    "Marks": {
+      "English": 59,
+      "Social Issues": 63,
+      "IS": 64,
+      "Discrete Math": 57,
+      "CS": 70,
+      "Mathematics": 78
+    },
+    "Full Mark": 391,
+    "GPA": 2.1,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051260,
+    "Name": "Muhammad Mahdi Zine El Abidine Mohamed Darwish",
+    "Marks": {
+      "English": 78,
+      "Social Issues": 67,
+      "IS": 67,
+      "Discrete Math": 73,
+      "CS": 58,
+      "Mathematics": 68
+    },
+    "Full Mark": 411,
+    "GPA": 2.25,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051261,
+    "Name": "Mohammed Nasser Ahmed Abdel -Alim",
+    "Marks": {
+      "English": 82,
+      "Social Issues": 64,
+      "IS": 65,
+      "Discrete Math": 58,
+      "CS": 51,
+      "Mathematics": 73
+    },
+    "Full Mark": 393,
+    "GPA": 2.01,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051262,
+    "Name": "Muhammad Nasser Fattouh Bakry",
+    "Marks": {
+      "English": 77,
+      "Social Issues": 61,
+      "IS": 65,
+      "Discrete Math": 59,
+      "CS": 41,
+      "Mathematics": 71
+    },
+    "Full Mark": 374,
+    "GPA": 1.74,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051263,
+    "Name": "Muhammad Hani Ibrahim Al -Desouki Azab",
+    "Marks": {
+      "English": 59,
+      "Social Issues": 63,
+      "IS": 59,
+      "Discrete Math": 45,
+      "CS": 38,
+      "Mathematics": 70
+    },
+    "Full Mark": 334,
+    "GPA": 1.16,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051264,
+    "Name": "Muhammad Hani Talaat Thabet",
+    "Marks": {
+      "English": 70,
+      "Social Issues": 68,
+      "IS": 51,
+      "Discrete Math": 44,
+      "CS": 44,
+      "Mathematics": 71
+    },
+    "Full Mark": 348,
+    "GPA": 1.23,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051265,
+    "Name": "Muhammad Hani Mohamed Abdel Azim",
+    "Marks": {
+      "English": 47,
+      "Social Issues": 58,
+      "IS": 62,
+      "Discrete Math": 38,
+      "CS": 36,
+      "Mathematics": 47
+    },
+    "Full Mark": 288,
+    "GPA": 0.56,
+    "Rating": "Very Weak"
+  },
+  {
+    "Seat Number": 231051266,
+    "Name": "Mohamed Yasser Taha Ahmed",
+    "Marks": {
+      "English": 43,
+      "Social Issues": 62,
+      "IS": 61,
+      "Discrete Math": 54,
+      "CS": 45,
+      "Mathematics": 65
+    },
+    "Full Mark": 330,
+    "GPA": 1.22,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051267,
+    "Name": "Mahmoud Ibrahim Abdel -Ati Muhammad",
+    "Marks": {
+      "English": 71,
+      "Social Issues": 70,
+      "IS": 54,
+      "Discrete Math": 71,
+      "CS": 61,
+      "Mathematics": 54
+    },
+    "Full Mark": 381,
+    "GPA": 1.8,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051268,
+    "Name": "Mahmoud Ahmed Dahi Qalii Ahmed",
+    "Marks": {
+      "English": 51,
+      "Social Issues": 64,
+      "IS": 60,
+      "Discrete Math": 55,
+      "CS": 32,
+      "Mathematics": 59
+    },
+    "Full Mark": 321,
+    "GPA": 1.33,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051269,
+    "Name": "Mahmoud Islam Zaki Fahim Naimani",
+    "Marks": {
+      "English": 65,
+      "Social Issues": 87,
+      "IS": 82,
+      "Discrete Math": 61,
+      "CS": 52,
+      "Mathematics": 74
+    },
+    "Full Mark": 421,
+    "GPA": 2.28,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051270,
+    "Name": "Mahmoud Ashraf Abdel Moneim Ahmed",
+    "Marks": {
+      "English": 85,
+      "Social Issues": 70,
+      "IS": 65,
+      "Discrete Math": 52,
+      "CS": 55,
+      "Mathematics": 69
+    },
+    "Full Mark": 396,
+    "GPA": 2.03,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051271,
+    "Name": "Mahmoud Ehab Mahmoud Taher Mohamed Shalaby",
+    "Marks": {
+      "English": 87,
+      "Social Issues": 67,
+      "IS": 72,
+      "Discrete Math": 56,
+      "CS": 61,
+      "Mathematics": 73
+    },
+    "Full Mark": 416,
+    "GPA": 2.3,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051272,
+    "Name": "Mahmoud Khaled Ahmed Hilal Al -Hefnawi",
+    "Marks": {
+      "English": 75,
+      "Social Issues": 71,
+      "IS": 64,
+      "Discrete Math": 67,
+      "CS": 66,
+      "Mathematics": 73
+    },
+    "Full Mark": 416,
+    "GPA": 2.35,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051273,
+    "Name": "Mahmoud Shaker Mohamed Sabry",
+    "Marks": {
+      "English": 62,
+      "Social Issues": 67,
+      "IS": 61,
+      "Discrete Math": 55,
+      "CS": 47,
+      "Mathematics": 70
+    },
+    "Full Mark": 362,
+    "GPA": 1.63,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051274,
+    "Name": "Mahmoud Salah Saeed Abu Al -Nasser",
+    "Marks": {
+      "English": 55,
+      "Social Issues": 68,
+      "IS": 58,
+      "Discrete Math": 45,
+      "CS": 47,
+      "Mathematics": 59
+    },
+    "Full Mark": 332,
+    "GPA": 1.05,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051275,
+    "Name": "Mahmoud Tariq Abu Al -Anwar Salim",
+    "Marks": {
+      "English": 80,
+      "Social Issues": 67,
+      "IS": 69,
+      "Discrete Math": 60,
+      "CS": 50,
+      "Mathematics": 57
+    },
+    "Full Mark": 383,
+    "GPA": 1.94,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051276,
+    "Name": "Mahmoud Imad Al -Din Mahmoud Imam",
+    "Marks": {
+      "English": 70,
+      "Social Issues": 68,
+      "IS": 61,
+      "Discrete Math": 63,
+      "CS": 65,
+      "Mathematics": 65
+    },
+    "Full Mark": 392,
+    "GPA": 2.17,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051277,
+    "Name": "Mahmoud Mohamed Ibrahim Mahmoud",
+    "Marks": {
+      "English": 74,
+      "Social Issues": 75,
+      "IS": 76,
+      "Discrete Math": 66,
+      "CS": 72,
+      "Mathematics": 78
+    },
+    "Full Mark": 441,
+    "GPA": 2.6,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051278,
+    "Name": "Mahmoud Mohamed Mahmoud Mohamed",
+    "Marks": {
+      "English": 62,
+      "Social Issues": 71,
+      "IS": 50,
+      "Discrete Math": 65,
+      "CS": 50,
+      "Mathematics": 66
+    },
+    "Full Mark": 364,
+    "GPA": 1.75,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051279,
+    "Name": "Mahmoud Mamdouh Mahmoud Abbas",
+    "Marks": {
+      "English": 66,
+      "Social Issues": 68,
+      "IS": 55,
+      "Discrete Math": 63,
+      "CS": 61,
+      "Mathematics": 63
+    },
+    "Full Mark": 376,
+    "GPA": 1.98,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051280,
+    "Name": "Mukhtar Muhammad Mukhtar Mahmoud",
+    "Marks": {
+      "English": 60,
+      "Social Issues": 73,
+      "IS": 51,
+      "Discrete Math": 64,
+      "CS": 59,
+      "Mathematics": 80
+    },
+    "Full Mark": 387,
+    "GPA": 2.01,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051281,
+    "Name": "Muddath Ashraf Sabry Hussein",
+    "Marks": {
+      "English": 51,
+      "Social Issues": 72,
+      "IS": 61,
+      "Discrete Math": 60,
+      "CS": 53,
+      "Mathematics": 76
+    },
+    "Full Mark": 373,
+    "GPA": 1.91,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051282,
+    "Name": "Maram Mahmoud Taha Abdel Aziz",
+    "Marks": {
+      "English": 78,
+      "Social Issues": 72,
+      "IS": 76,
+      "Discrete Math": 74,
+      "CS": 66,
+      "Mathematics": 81
+    },
+    "Full Mark": 447,
+    "GPA": 2.66,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051283,
+    "Name": "Marwan Ashraf Hassan Muhammad Imam",
+    "Marks": {
+      "English": 60,
+      "Social Issues": 88,
+      "IS": 73,
+      "Discrete Math": 68,
+      "CS": 56,
+      "Mathematics": 71
+    },
+    "Full Mark": 416,
+    "GPA": 2.34,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051284,
+    "Name": "Marwan Tamer Fikry Fouad",
+    "Marks": {
+      "English": 92,
+      "Social Issues": 71,
+      "IS": 69,
+      "Discrete Math": 73,
+      "CS": 75,
+      "Mathematics": 97
+    },
+    "Full Mark": 477,
+    "GPA": 2.93,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051285,
+    "Name": "Maryam Ayman Ali Ahmed",
+    "Marks": {
+      "English": 77,
+      "Social Issues": 85,
+      "IS": 74,
+      "Discrete Math": 64,
+      "CS": 65,
+      "Mathematics": 85
+    },
+    "Full Mark": 450,
+    "GPA": 2.66,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051286,
+    "Name": "Maryam Reda Mohamed Ahmed",
+    "Marks": {
+      "English": 72,
+      "Social Issues": 87,
+      "IS": 73,
+      "Discrete Math": 79,
+      "CS": 51,
+      "Mathematics": 74
+    },
+    "Full Mark": 436,
+    "GPA": 2.41,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051287,
+    "Name": "Maryam Saleh Al -Sabahi Abu Hashem",
+    "Marks": {
+      "English": 84,
+      "Social Issues": 80,
+      "IS": 74,
+      "Discrete Math": 70,
+      "CS": 80,
+      "Mathematics": 94
+    },
+    "Full Mark": 482,
+    "GPA": 2.96,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051288,
+    "Name": "Maryam Taha Abdel -Ati Metwally Farraj",
+    "Marks": {
+      "English": 74,
+      "Social Issues": 91,
+      "IS": 82,
+      "Discrete Math": 80,
+      "CS": 89,
+      "Mathematics": 99
+    },
+    "Full Mark": 515,
+    "GPA": 3.26,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051289,
+    "Name": "Maryam Abdel Fattah Munir Abdel Fattah",
+    "Marks": {
+      "English": 81,
+      "Social Issues": 77,
+      "IS": 81,
+      "Discrete Math": 72,
+      "CS": 81,
+      "Mathematics": 75
+    },
+    "Full Mark": 467,
+    "GPA": 2.82,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051290,
+    "Name": "Maryam Muhammad Ali Ali Captain",
+    "Marks": {
+      "English": 83,
+      "Social Issues": 78,
+      "IS": 84,
+      "Discrete Math": 71,
+      "CS": 73,
+      "Mathematics": 81
+    },
+    "Full Mark": 470,
+    "GPA": 2.82,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051291,
+    "Name": "Maryam Murad Kamel Ramzy Abdullah",
+    "Marks": {
+      "English": 88,
+      "Social Issues": 79,
+      "IS": 80,
+      "Discrete Math": 61,
+      "CS": 62,
+      "Mathematics": 71
+    },
+    "Full Mark": 441,
+    "GPA": 2.53,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051292,
+    "Name": "Mustafa Rizk Abdul Qadir Ismail",
+    "Marks": {
+      "English": 62,
+      "Social Issues": 58,
+      "IS": 71,
+      "Discrete Math": 42,
+      "CS": 52,
+      "Mathematics": 67
+    },
+    "Full Mark": 352,
+    "GPA": 1.48,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051293,
+    "Name": "Mustafa Sayed Abdul -Malik Sayed Ammar",
+    "Marks": {
+      "English": 74,
+      "Social Issues": 73,
+      "IS": 72,
+      "Discrete Math": 73,
+      "CS": 68,
+      "Mathematics": 73
+    },
+    "Full Mark": 433,
+    "GPA": 2.56,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051294,
+    "Name": "Mustafa Ashour Ahmed Attia",
+    "Marks": {
+      "English": 23,
+      "Social Issues": 30,
+      "IS": 29,
+      "Discrete Math": 18,
+      "CS": 30,
+      "Mathematics": 36
+    },
+    "Full Mark": 166,
+    "GPA": 0.0,
+    "Rating": "Very Weak"
+  },
+  {
+    "Seat Number": 231051295,
+    "Name": "Mustafa Fouad Mustafa Kamal Muhammad",
+    "Marks": {
+      "English": 73,
+      "Social Issues": 72,
+      "IS": 66,
+      "Discrete Math": 66,
+      "CS": 53,
+      "Mathematics": 92
+    },
+    "Full Mark": 422,
+    "GPA": 2.35,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051296,
+    "Name": "Mustafa Muhammad Mahmoud Abu Al -Foufa",
+    "Marks": {
+      "English": 50,
+      "Social Issues": 59,
+      "IS": 71,
+      "Discrete Math": 51,
+      "CS": 63,
+      "Mathematics": 68
+    },
+    "Full Mark": 362,
+    "GPA": 1.77,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051297,
+    "Name": "Mustafa Mahmoud Mustafa Abdel Salam Muwafi",
+    "Marks": {
+      "English": 86,
+      "Social Issues": 82,
+      "IS": 72,
+      "Discrete Math": 61,
+      "CS": 58,
+      "Mathematics": 62
+    },
+    "Full Mark": 421,
+    "GPA": 2.29,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051298,
+    "Name": "Mustafa Waheed Omar Muhammad Omar",
+    "Marks": {
+      "English": 63,
+      "Social Issues": 69,
+      "IS": 70,
+      "Discrete Math": 59,
+      "CS": 57,
+      "Mathematics": 62
+    },
+    "Full Mark": 380,
+    "GPA": 1.93,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051299,
+    "Name": "Mustafa Yasser Mustafa Abdel Wahab",
+    "Marks": {
+      "English": 91,
+      "Social Issues": 59,
+      "IS": 58,
+      "Discrete Math": 47,
+      "CS": 44,
+      "Mathematics": 77
+    },
+    "Full Mark": 376,
+    "GPA": 1.41,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051300,
+    "Name": "Moaz Riyad Ismail Abdel -Qawi",
+    "Marks": {
+      "English": 84,
+      "Social Issues": 75,
+      "IS": 66,
+      "Discrete Math": 64,
+      "CS": 57,
+      "Mathematics": 88
+    },
+    "Full Mark": 434,
+    "GPA": 2.46,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051301,
+    "Name": "Moaz Tariq Mohamed Mohamed Mahmoud",
+    "Marks": {
+      "English": 86,
+      "Social Issues": 72,
+      "IS": 80,
+      "Discrete Math": 64,
+      "CS": 63,
+      "Mathematics": 71
+    },
+    "Full Mark": 436,
+    "GPA": 2.52,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051302,
+    "Name": "Moataz Ahmed Abdel Sabour Muhammad",
+    "Marks": {
+      "English": 92,
+      "Social Issues": 96,
+      "IS": 85,
+      "Discrete Math": 82,
+      "CS": 96,
+      "Mathematics": 99
+    },
+    "Full Mark": 550,
+    "GPA": 3.62,
+    "Rating": "Excellent"
+  },
+  {
+    "Seat Number": 231051303,
+    "Name": "Moataz Mohamed Labib Ibrahim",
+    "Marks": {
+      "English": 57,
+      "Social Issues": 68,
+      "IS": 66,
+      "Discrete Math": 42,
+      "CS": 43,
+      "Mathematics": 73
+    },
+    "Full Mark": 349,
+    "GPA": 1.38,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051304,
+    "Name": "King Hassan Muhammad Tawfiq Abdul Hamid",
+    "Marks": {
+      "English": 87,
+      "Social Issues": 76,
+      "IS": 74,
+      "Discrete Math": 76,
+      "CS": 66,
+      "Mathematics": 87
+    },
+    "Full Mark": 466,
+    "GPA": 2.77,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051305,
+    "Name": "King of Adel Fouad Abdel -Qawi Abdul Rahman",
+    "Marks": {
+      "English": 62,
+      "Social Issues": 76,
+      "IS": 74,
+      "Discrete Math": 61,
+      "CS": 55,
+      "Mathematics": 53
+    },
+    "Full Mark": 381,
+    "GPA": 1.93,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051306,
+    "Name": "King of Mansour Muhammad Hassan Muhammad",
+    "Marks": {
+      "English": 57,
+      "Social Issues": 70,
+      "IS": 67,
+      "Discrete Math": 59,
+      "CS": 51,
+      "Mathematics": 66
+    },
+    "Full Mark": 370,
+    "GPA": 1.78,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051307,
+    "Name": "King of Walid Youssef Muhammad",
+    "Marks": {
+      "English": 92,
+      "Social Issues": 76,
+      "IS": 79,
+      "Discrete Math": 64,
+      "CS": 72,
+      "Mathematics": 87
+    },
+    "Full Mark": 470,
+    "GPA": 2.83,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051308,
+    "Name": "Menna Allah Hamdi Salah Abdullah",
+    "Marks": {
+      "English": 52,
+      "Social Issues": 67,
+      "IS": 60,
+      "Discrete Math": 53,
+      "CS": 50,
+      "Mathematics": 54
+    },
+    "Full Mark": 336,
+    "GPA": 1.33,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051309,
+    "Name": "Menna Allah Hisham Fouad Muhammad",
+    "Marks": {
+      "English": 93,
+      "Social Issues": 77,
+      "IS": 77,
+      "Discrete Math": 80,
+      "CS": 76,
+      "Mathematics": 78
+    },
+    "Full Mark": 481,
+    "GPA": 2.95,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051310,
+    "Name": "God is Khaled Rajab Abdel Wahab",
+    "Marks": {
+      "English": 92,
+      "Social Issues": 75,
+      "IS": 72,
+      "Discrete Math": 62,
+      "CS": 43,
+      "Mathematics": 52
+    },
+    "Full Mark": 396,
+    "GPA": 1.83,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051311,
+    "Name": "God is Rabie Muhammad Abdel Azim",
+    "Marks": {
+      "English": 88,
+      "Social Issues": 82,
+      "IS": 87,
+      "Discrete Math": 89,
+      "CS": 88,
+      "Mathematics": 94
+    },
+    "Full Mark": 528,
+    "GPA": 3.36,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051312,
+    "Name": "God is Sharif Abdel Fattah Abdul Rahman Jad",
+    "Marks": {
+      "English": 89,
+      "Social Issues": 84,
+      "IS": 85,
+      "Discrete Math": 81,
+      "CS": 90,
+      "Mathematics": 96
+    },
+    "Full Mark": 525,
+    "GPA": 3.37,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051313,
+    "Name": "Muhannad Ahmed Khaled Muhammad Hussein",
+    "Marks": {
+      "English": 88,
+      "Social Issues": 74,
+      "IS": 74,
+      "Discrete Math": 74,
+      "CS": 78,
+      "Mathematics": 81
+    },
+    "Full Mark": 469,
+    "GPA": 2.81,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051314,
+    "Name": "Moamen Mahmoud Faraj Abdel -Alim",
+    "Marks": {
+      "English": 59,
+      "Social Issues": 75,
+      "IS": 64,
+      "Discrete Math": 42,
+      "CS": 58,
+      "Mathematics": 64
+    },
+    "Full Mark": 362,
+    "GPA": 1.61,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051315,
+    "Name": "Mira in the name of Ernest Daniel",
+    "Marks": {
+      "English": 71,
+      "Social Issues": 75,
+      "IS": 78,
+      "Discrete Math": 74,
+      "CS": 77,
+      "Mathematics": 78
+    },
+    "Full Mark": 453,
+    "GPA": 2.68,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051316,
+    "Name": "Michel Magdy Michel Aziz",
+    "Marks": {
+      "English": 84,
+      "Social Issues": 81,
+      "IS": 84,
+      "Discrete Math": 67,
+      "CS": 81,
+      "Mathematics": 91
+    },
+    "Full Mark": 488,
+    "GPA": 2.98,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051317,
+    "Name": "Mina Abdel -Baqi Faraj Allah Mikhail",
+    "Marks": {
+      "English": 53,
+      "Social Issues": 60,
+      "IS": 72,
+      "Discrete Math": 55,
+      "CS": 50,
+      "Mathematics": 57
+    },
+    "Full Mark": 347,
+    "GPA": 1.61,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051318,
+    "Name": "Nadia Mohamed Ibrahim Fawzi Hussein",
+    "Marks": {
+      "English": 92,
+      "Social Issues": 81,
+      "IS": 90,
+      "Discrete Math": 77,
+      "CS": 84,
+      "Mathematics": 81
+    },
+    "Full Mark": 505,
+    "GPA": 3.16,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051319,
+    "Name": "Nada Shaban Rabie Abdullah",
+    "Marks": {
+      "English": 53,
+      "Social Issues": 68,
+      "IS": 51,
+      "Discrete Math": 50,
+      "CS": 35,
+      "Mathematics": 55
+    },
+    "Full Mark": 312,
+    "GPA": 1.08,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051320,
+    "Name": "Nada Walid Jaber Othman Ismail",
+    "Marks": {
+      "English": 68,
+      "Social Issues": 77,
+      "IS": 71,
+      "Discrete Math": 65,
+      "CS": 53,
+      "Mathematics": 57
+    },
+    "Full Mark": 391,
+    "GPA": 1.98,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051321,
+    "Name": "Nada Walid Samih Abdel Hamid Ahmed",
+    "Marks": {
+      "English": 90,
+      "Social Issues": 82,
+      "IS": 86,
+      "Discrete Math": 86,
+      "CS": 81,
+      "Mathematics": 88
+    },
+    "Full Mark": 513,
+    "GPA": 3.2,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051322,
+    "Name": "Noha Mahmoud Mari Abdel Mohsen",
+    "Marks": {
+      "English": 79,
+      "Social Issues": 79,
+      "IS": 72,
+      "Discrete Math": 67,
+      "CS": 79,
+      "Mathematics": 82
+    },
+    "Full Mark": 458,
+    "GPA": 2.68,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051323,
+    "Name": "Nour Ashraf Farouk Shehata",
+    "Marks": {
+      "English": 95,
+      "Social Issues": 76,
+      "IS": 78,
+      "Discrete Math": 77,
+      "CS": 87,
+      "Mathematics": 93
+    },
+    "Full Mark": 506,
+    "GPA": 3.15,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051324,
+    "Name": "Nour Ali Muhammad Ibrahim",
+    "Marks": {
+      "English": 73,
+      "Social Issues": 73,
+      "IS": 68,
+      "Discrete Math": 45,
+      "CS": 65,
+      "Mathematics": 63
+    },
+    "Full Mark": 387,
+    "GPA": 1.88,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051325,
+    "Name": "Nourhan Khalifa Abdel Aal Hassan",
+    "Marks": {
+      "English": 92,
+      "Social Issues": 83,
+      "IS": 90,
+      "Discrete Math": 84,
+      "CS": 89,
+      "Mathematics": 86
+    },
+    "Full Mark": 524,
+    "GPA": 3.31,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051326,
+    "Name": "Hajar Hassanein Mohamed Abdel -Gawad",
+    "Marks": {
+      "English": 64,
+      "Social Issues": 74,
+      "IS": 64,
+      "Discrete Math": 57,
+      "CS": 50,
+      "Mathematics": 66
+    },
+    "Full Mark": 375,
+    "GPA": 1.89,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051327,
+    "Name": "Heidi Hossam El -Din Muhammad Ali Al -Sayed",
+    "Marks": {
+      "English": 83,
+      "Social Issues": 85,
+      "IS": 87,
+      "Discrete Math": 84,
+      "CS": 80,
+      "Mathematics": 88
+    },
+    "Full Mark": 507,
+    "GPA": 3.17,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051328,
+    "Name": "Hisham Kamel Hassan Muhammad Abu Shadi",
+    "Marks": {
+      "English": 76,
+      "Social Issues": 75,
+      "IS": 77,
+      "Discrete Math": 56,
+      "CS": 53,
+      "Mathematics": 62
+    },
+    "Full Mark": 399,
+    "GPA": 2.04,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051329,
+    "Name": "Haitham Mohamed Mohamed Ahmed",
+    "Marks": {
+      "English": 74,
+      "Social Issues": 69,
+      "IS": 69,
+      "Discrete Math": 77,
+      "CS": 75,
+      "Mathematics": 94
+    },
+    "Full Mark": 458,
+    "GPA": 2.78,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051330,
+    "Name": "Walaa Omar Hassan Abdel Salam",
+    "Marks": {
+      "English": 78,
+      "Social Issues": 72,
+      "IS": 57,
+      "Discrete Math": 80,
+      "CS": 57,
+      "Mathematics": 93
+    },
+    "Full Mark": 437,
+    "GPA": 2.49,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051331,
+    "Name": "Walid Salah Al -Din Taha Abdulaziz",
+    "Marks": {
+      "English": 55,
+      "Social Issues": 67,
+      "IS": 52,
+      "Discrete Math": 52,
+      "CS": 41,
+      "Mathematics": 61
+    },
+    "Full Mark": 328,
+    "GPA": 1.21,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051332,
+    "Name": "Yara Ahmed Fouad Mohamed",
+    "Marks": {
+      "English": 79,
+      "Social Issues": 72,
+      "IS": 69,
+      "Discrete Math": 55,
+      "CS": 55,
+      "Mathematics": 63
+    },
+    "Full Mark": 393,
+    "GPA": 2.06,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051333,
+    "Name": "Yara Anwar Abdel Wahab Mitwalli Ali",
+    "Marks": {
+      "English": 60,
+      "Social Issues": 65,
+      "IS": 60,
+      "Discrete Math": 73,
+      "CS": 75,
+      "Mathematics": 80
+    },
+    "Full Mark": 413,
+    "GPA": 2.43,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051334,
+    "Name": "Yasmine Ramadan Abdul Wahid Muhammad",
+    "Marks": {
+      "English": 86,
+      "Social Issues": 67,
+      "IS": 73,
+      "Discrete Math": 80,
+      "CS": 76,
+      "Mathematics": 75
+    },
+    "Full Mark": 457,
+    "GPA": 2.73,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051335,
+    "Name": "Yassin Abu Bakr Nasruddin Ahmed",
+    "Marks": {
+      "English": 56,
+      "Social Issues": 69,
+      "IS": 52,
+      "Discrete Math": 52,
+      "CS": 46,
+      "Mathematics": 77
+    },
+    "Full Mark": 352,
+    "GPA": 1.38,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051336,
+    "Name": "Yassin Ahmed Samir Muhammad Makawi",
+    "Marks": {
+      "English": 81,
+      "Social Issues": 69,
+      "IS": 73,
+      "Discrete Math": 71,
+      "CS": 72,
+      "Mathematics": 76
+    },
+    "Full Mark": 442,
+    "GPA": 2.62,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051337,
+    "Name": "Yahya Muhammad Yahya Rashad Kharshoum",
+    "Marks": {
+      "English": 75,
+      "Social Issues": 63,
+      "IS": 56,
+      "Discrete Math": 67,
+      "CS": 50,
+      "Mathematics": 65
+    },
+    "Full Mark": 376,
+    "GPA": 1.86,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051338,
+    "Name": "Yemen Ashraf Fathi Salim",
+    "Marks": {
+      "English": 56,
+      "Social Issues": 77,
+      "IS": 64,
+      "Discrete Math": 50,
+      "CS": 51,
+      "Mathematics": 57
+    },
+    "Full Mark": 355,
+    "GPA": 1.6,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051339,
+    "Name": "John Yunnan Emile Mikhail Bechara",
+    "Marks": {
+      "English": 84,
+      "Social Issues": 73,
+      "IS": 75,
+      "Discrete Math": 82,
+      "CS": 80,
+      "Mathematics": 88
+    },
+    "Full Mark": 482,
+    "GPA": 2.97,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051340,
+    "Name": "Estina Emad Amin Sidrak",
+    "Marks": {
+      "English": 88,
+      "Social Issues": 73,
+      "IS": 82,
+      "Discrete Math": 85,
+      "CS": 78,
+      "Mathematics": 97
+    },
+    "Full Mark": 503,
+    "GPA": 3.18,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051341,
+    "Name": "Youssef Ibrahim Salem Sayed",
+    "Marks": {
+      "English": 50,
+      "Social Issues": 75,
+      "IS": 55,
+      "Discrete Math": 31,
+      "CS": 50,
+      "Mathematics": 54
+    },
+    "Full Mark": 315,
+    "GPA": 1.1,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051342,
+    "Name": "Youssef Ibrahim Saeed Ibrahim",
+    "Marks": {
+      "English": 65,
+      "Social Issues": 61,
+      "IS": 46,
+      "Discrete Math": 50,
+      "CS": 46,
+      "Mathematics": 74
+    },
+    "Full Mark": 342,
+    "GPA": 1.2,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051343,
+    "Name": "Youssef Ahmed Saeed Mahmoud Ali",
+    "Marks": {
+      "English": 63,
+      "Social Issues": 82,
+      "IS": 77,
+      "Discrete Math": 63,
+      "CS": 51,
+      "Mathematics": 65
+    },
+    "Full Mark": 401,
+    "GPA": 2.12,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051344,
+    "Name": "Youssef Osama Abdel -Moaz Taha Al -Abbasi",
+    "Marks": {
+      "English": 50,
+      "Social Issues": 61,
+      "IS": 56,
+      "Discrete Math": 67,
+      "CS": 52,
+      "Mathematics": 88
+    },
+    "Full Mark": 374,
+    "GPA": 1.89,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051345,
+    "Name": "Youssef Amir Abdul Rahman Muhammad Abu Al -Dahab",
+    "Marks": {
+      "English": 63,
+      "Social Issues": 66,
+      "IS": 59,
+      "Discrete Math": 70,
+      "CS": 52,
+      "Mathematics": 75
+    },
+    "Full Mark": 385,
+    "GPA": 1.93,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051346,
+    "Name": "Youssef Rajab Jaber Abu Al -Naga",
+    "Marks": {
+      "English": 64,
+      "Social Issues": 81,
+      "IS": 65,
+      "Discrete Math": 63,
+      "CS": 64,
+      "Mathematics": 86
+    },
+    "Full Mark": 423,
+    "GPA": 2.45,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051347,
+    "Name": "Youssef Sadat Hamed Kamel",
+    "Marks": {
+      "English": 93,
+      "Social Issues": 91,
+      "IS": 85,
+      "Discrete Math": 83,
+      "CS": 82,
+      "Mathematics": 87
+    },
+    "Full Mark": 521,
+    "GPA": 3.21,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051348,
+    "Name": "Youssef Sameh Anwar Salem Ali",
+    "Marks": {
+      "English": 69,
+      "Social Issues": 80,
+      "IS": 61,
+      "Discrete Math": 74,
+      "CS": 60,
+      "Mathematics": 87
+    },
+    "Full Mark": 431,
+    "GPA": 2.51,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051349,
+    "Name": "Youssef Saeed Hussein Muhammad Atallah",
+    "Marks": {
+      "English": 79,
+      "Social Issues": 69,
+      "IS": 67,
+      "Discrete Math": 55,
+      "CS": 64,
+      "Mathematics": 69
+    },
+    "Full Mark": 403,
+    "GPA": 2.2,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051350,
+    "Name": "Youssef Samir Sayed Ali",
+    "Marks": {
+      "English": 61,
+      "Social Issues": 80,
+      "IS": 59,
+      "Discrete Math": 58,
+      "CS": 56,
+      "Mathematics": 80
+    },
+    "Full Mark": 394,
+    "GPA": 2.03,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051351,
+    "Name": "Youssef Tariq Nathan Shawky",
+    "Marks": {
+      "English": 81,
+      "Social Issues": 83,
+      "IS": 71,
+      "Discrete Math": 72,
+      "CS": 78,
+      "Mathematics": 86
+    },
+    "Full Mark": 471,
+    "GPA": 2.81,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051352,
+    "Name": "Youssef Atef Tayeh Noureddine",
+    "Marks": {
+      "English": 79,
+      "Social Issues": 76,
+      "IS": 81,
+      "Discrete Math": 69,
+      "CS": 84,
+      "Mathematics": 90
+    },
+    "Full Mark": 479,
+    "GPA": 2.95,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051353,
+    "Name": "Youssef Abdel Halim Ramadan Abdel Halim Al -Batal",
+    "Marks": {
+      "English": 80,
+      "Social Issues": 72,
+      "IS": 82,
+      "Discrete Math": 59,
+      "CS": 58,
+      "Mathematics": 73
+    },
+    "Full Mark": 424,
+    "GPA": 2.31,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051354,
+    "Name": "Youssef Abdullah Abdullah Ali",
+    "Marks": {
+      "English": 73,
+      "Social Issues": 69,
+      "IS": 63,
+      "Discrete Math": 70,
+      "CS": 60,
+      "Mathematics": 76
+    },
+    "Full Mark": 411,
+    "GPA": 2.35,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051355,
+    "Name": "Youssef Essam Ragab Youssef",
+    "Marks": {
+      "English": 70,
+      "Social Issues": 62,
+      "IS": 53,
+      "Discrete Math": 54,
+      "CS": 59,
+      "Mathematics": 80
+    },
+    "Full Mark": 378,
+    "GPA": 1.76,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051356,
+    "Name": "Youssef Essam Nagy Abdel Fattah Mohamed",
+    "Marks": {
+      "English": 79,
+      "Social Issues": 63,
+      "IS": 38,
+      "Discrete Math": 33,
+      "CS": 32,
+      "Mathematics": 61
+    },
+    "Full Mark": 306,
+    "GPA": 0.97,
+    "Rating": "Very Weak"
+  },
+  {
+    "Seat Number": 231051357,
+    "Name": "Youssef Ali Mazen Hassan",
+    "Marks": {
+      "English": 81,
+      "Social Issues": 74,
+      "IS": 76,
+      "Discrete Math": 81,
+      "CS": 86,
+      "Mathematics": 87
+    },
+    "Full Mark": 485,
+    "GPA": 2.98,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051358,
+    "Name": "Youssef Magdy Gharib Ahmed",
+    "Marks": {
+      "English": 59,
+      "Social Issues": 76,
+      "IS": 68,
+      "Discrete Math": 76,
+      "CS": 83,
+      "Mathematics": 73
+    },
+    "Full Mark": 435,
+    "GPA": 2.56,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231051359,
+    "Name": "Youssef Mohamed Ahmed Mahmoud",
+    "Marks": {
+      "English": 67,
+      "Social Issues": 77,
+      "IS": 64,
+      "Discrete Math": 43,
+      "CS": 63,
+      "Mathematics": 50
+    },
+    "Full Mark": 364,
+    "GPA": 1.6,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051360,
+    "Name": "Youssef Mohamed Barakat Eid Muhammad Qaibah",
+    "Marks": {
+      "English": 74,
+      "Social Issues": 67,
+      "IS": 54,
+      "Discrete Math": 62,
+      "CS": 59,
+      "Mathematics": 64
+    },
+    "Full Mark": 380,
+    "GPA": 1.85,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051361,
+    "Name": "Youssef Mohamed Saeed Azmi",
+    "Marks": {
+      "English": 78,
+      "Social Issues": 67,
+      "IS": 57,
+      "Discrete Math": 54,
+      "CS": 62,
+      "Mathematics": 65
+    },
+    "Full Mark": 383,
+    "GPA": 1.88,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051362,
+    "Name": "Youssef Muhammad Saeed Muhammad Abu Al -Majd",
+    "Marks": {
+      "English": 90,
+      "Social Issues": 81,
+      "IS": 78,
+      "Discrete Math": 80,
+      "CS": 83,
+      "Mathematics": 88
+    },
+    "Full Mark": 500,
+    "GPA": 3.08,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231051363,
+    "Name": "Youssef Mahmoud Abu Zaid Ali",
+    "Marks": {
+      "English": 42,
+      "Social Issues": 62,
+      "IS": 53,
+      "Discrete Math": 44,
+      "CS": 40,
+      "Mathematics": 50
+    },
+    "Full Mark": 291,
+    "GPA": 0.62,
+    "Rating": "Very Weak"
+  },
+  {
+    "Seat Number": 231051364,
+    "Name": "Youssef Mahmoud Ahmed Abdel Jalil",
+    "Marks": {
+      "English": 64,
+      "Social Issues": 72,
+      "IS": 69,
+      "Discrete Math": 71,
+      "CS": 67,
+      "Mathematics": 78
+    },
+    "Full Mark": 421,
+    "GPA": 2.43,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051365,
+    "Name": "Youssef Mamdouh Qarni Mahmoud",
+    "Marks": {
+      "English": 62,
+      "Social Issues": 74,
+      "IS": 55,
+      "Discrete Math": 51,
+      "CS": 42,
+      "Mathematics": 67
+    },
+    "Full Mark": 351,
+    "GPA": 1.45,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051366,
+    "Name": "Youssef Hisham Ahmed Farghali Youssef",
+    "Marks": {
+      "English": 83,
+      "Social Issues": 65,
+      "IS": 55,
+      "Discrete Math": 65,
+      "CS": 55,
+      "Mathematics": 84
+    },
+    "Full Mark": 407,
+    "GPA": 2.22,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231051367,
+    "Name": "Youssef and Wajdi Mustafa Ibrahim",
+    "Marks": {
+      "English": 75,
+      "Social Issues": 69,
+      "IS": 60,
+      "Discrete Math": 47,
+      "CS": 38,
+      "Mathematics": 53
+    },
+    "Full Mark": 342,
+    "GPA": 1.18,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051368,
+    "Name": "Youssef Walid Kamal Muhammad",
+    "Marks": {
+      "English": 55,
+      "Social Issues": 67,
+      "IS": 59,
+      "Discrete Math": 58,
+      "CS": 42,
+      "Mathematics": 68
+    },
+    "Full Mark": 349,
+    "GPA": 1.47,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231051369,
+    "Name": "Youssef Yunnan Nassif Badry",
+    "Marks": {
+      "English": 61,
+      "Social Issues": 73,
+      "IS": 70,
+      "Discrete Math": 58,
+      "CS": 58,
+      "Mathematics": 73
+    },
+    "Full Mark": 393,
+    "GPA": 2.07,
+    "Rating": "Acceptable"
+  }
+]
